@@ -2,8 +2,7 @@
 
 I am a Junior iOS developer based in Berlin. Love to code in Swift and currently learning SwiftUI.
 
-I love cycling and good coffee. Also I have a soft spot for Ethiopian coffee. You can follow me on Twitter. You can also ask me anything (within reason).
-
+I love cycling and good coffee. Also I have a soft spot for Ethiopian coffee. You can follow me on Twitter. 
 <!--
 **multitudes/multitudes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
