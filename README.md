@@ -2,11 +2,9 @@
 
 I am a Junior iOS developer based in Berlin. Love to code in Swift and currently learning SwiftUI.
 
-Here is a link to my iOS [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md)
+Here is a link to my iOS [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). You can follow me on [Twitter](https://twitter.com/wrmultitudes).
 
-I love cycling and good coffee. You can follow me on [Twitter](https://twitter.com/wrmultitudes)
-
-If you can't get enough of me I collected some more links [here:](https://linktr.ee/LaurentBrusa)!
+I love cycling and good coffee. If you can't get enough of me I collected some more links [here:](https://linktr.ee/LaurentBrusa)!
 <!--
 **multitudes/multitudes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
