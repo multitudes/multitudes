@@ -1,6 +1,6 @@
-### Hi I am Laurent 👋
+### Hi there 👋
 
-In 2017 I moved to Berlin and started a new career in iOS development.   
+My name is Laurent and I am a Junior iOS Developer based in Berlin.👨🏻‍💻   
 
 Currently I am available to hire (preferably remote at this time).   
 
