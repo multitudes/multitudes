@@ -11,8 +11,9 @@ My area of interest include:
 I love cycling 🚴 and good coffee ☕️🌱.   
 
 📫 You can DM me on [Twitter](https://twitter.com/wrmultitudes).
-If you can't get enough of me I collected some more links [here](https://linktr.ee/LaurentBrusa)!
 <!--
+
+If you can't get enough of me I collected some more links [here](https://linktr.ee/LaurentBrusa)!
 **multitudes/multitudes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
