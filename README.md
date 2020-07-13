@@ -1,8 +1,8 @@
 ### Hi I am Laurent 👋
 
 In 2017 I moved to Berlin and started a new career in iOS development.   
+
 Currently I am available to hire (preferably remote at this time).   
-Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). 
 
 My area of interest include:  
 • Programming in Swift.  
@@ -10,6 +10,8 @@ My area of interest include:
 • Develop cross-platform native apps with SwiftUI.  
 
 I love cycling 🚴 and good coffee ☕️🌱.   
+
+Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). 
 
 📫 You can DM me on [Twitter](https://twitter.com/wrmultitudes)!
 <!--
