@@ -1,10 +1,18 @@
-### Hi there 👋
+### Hi I am Laurent 👋
 
-I am a Junior iOS developer based in Berlin. Love to code in Swift and currently learning SwiftUI.
+In 2017 I moved to Berlin and started a new career in iOS development. 
+I am available to hire, preferably remote at this time. Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). 
 
-Here is a link to my iOS [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). You can follow me on [Twitter](https://twitter.com/wrmultitudes).
+My area of interest include:
+• Programming in Swift
+• UIKit with both storyboards and programmatic UI
+• Develop cross-platform native apps with SwiftUI
 
-I love cycling and good coffee. If you can't get enough of me I collected some more links [here:](https://linktr.ee/LaurentBrusa)!
+📫 DM me on [Twitter](https://twitter.com/wrmultitudes).
+
+I love cycling 🚴 and good coffee ☕️🌱. 
+
+If you can't get enough of me I collected some more links [here:](https://linktr.ee/LaurentBrusa)!
 <!--
 **multitudes/multitudes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
