@@ -1,16 +1,17 @@
 ### Hi I am Laurent 👋
 
-In 2017 I moved to Berlin and started a new career in iOS development. 
-I am available to hire, preferably remote at this time. Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). 
+In 2017 I moved to Berlin and started a new career in iOS development.   
+I am available to hire, preferably remote at this time.   Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). 
 
-My area of interest include:
-• Programming in Swift
-• UIKit with both storyboards and programmatic UI
-• Develop cross-platform native apps with SwiftUI
+My area of interest include:  
+• Programming in Swift.  
+• UIKit with both storyboards and programmatic UI.  
+• Develop cross-platform native apps with SwiftUI.  
+
 
 📫 DM me on [Twitter](https://twitter.com/wrmultitudes).
 
-I love cycling 🚴 and good coffee ☕️🌱. 
+I love cycling 🚴 and good coffee ☕️🌱.   
 
 If you can't get enough of me I collected some more links [here:](https://linktr.ee/LaurentBrusa)!
 <!--
