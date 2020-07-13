@@ -8,12 +8,10 @@ My area of interest include:
 • UIKit with both storyboards and programmatic UI.  
 • Develop cross-platform native apps with SwiftUI.  
 
-
-📫 DM me on [Twitter](https://twitter.com/wrmultitudes).
-
 I love cycling 🚴 and good coffee ☕️🌱.   
 
-If you can't get enough of me I collected some more links [here:](https://linktr.ee/LaurentBrusa)!
+📫 You can DM me on [Twitter](https://twitter.com/wrmultitudes).
+If you can't get enough of me I collected some more links [here](https://linktr.ee/LaurentBrusa)!
 <!--
 **multitudes/multitudes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
