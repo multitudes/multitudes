@@ -1,7 +1,8 @@
 ### Hi I am Laurent 👋
 
 In 2017 I moved to Berlin and started a new career in iOS development.   
-I am available to hire, preferably remote at this time.   Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). 
+Currently I am available to hire (preferably remote at this time).   
+Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). 
 
 My area of interest include:  
 • Programming in Swift.  
@@ -10,7 +11,7 @@ My area of interest include:
 
 I love cycling 🚴 and good coffee ☕️🌱.   
 
-📫 You can DM me on [Twitter](https://twitter.com/wrmultitudes).
+📫 You can DM me on [Twitter](https://twitter.com/wrmultitudes)!
 <!--
 
 If you can't get enough of me I collected some more links [here](https://linktr.ee/LaurentBrusa)!
