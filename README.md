@@ -8,7 +8,7 @@ And at my [CV](https://multitudes.github.io/images/cv/cv-for-ios-sep2020.pdf)!
 
 My area of interest include:  
 • Programming in Swift.  
-• UIKit with both storyboards and programmatic UI.  
+• UIKit, both with storyboards and programmatic.  
 • Develop cross-platform native apps with SwiftUI.  
 
 
