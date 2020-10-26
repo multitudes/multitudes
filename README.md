@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-> As the astronaut John Young said, “the greatest enemy of progress is the illusion of knowledge”. We never should stop learning, even when we get 92 years old!
+> “The greatest enemy of progress is the illusion of knowledge”. /nAstronaut John Young 
+
+We never should stop learning, even when we get 92 years old!
 
 My name is Laurent and I am a Junior iOS Developer based in Berlin.👨🏻‍💻   
 
