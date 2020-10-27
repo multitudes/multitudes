@@ -7,7 +7,7 @@ My name is Laurent and I am a Junior iOS Developer based in Berlin.👨🏻‍�
 
 Currently I am available to hire (preferably remote at this time).   
 Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). 
-And at my [CV](https://multitudes.github.io/images/cv/cv-for-ios-sep2020.pdf)!
+And at my [CV](https://multitudes.github.io/images/cv/cv-for-ios-nov2020.pdf)!
 
 My area of interest include:  
 • Programming in Swift.  
