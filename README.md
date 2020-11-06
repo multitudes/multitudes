@@ -3,7 +3,7 @@
 > “The greatest enemy of progress is the illusion of knowledge”.  
 Astronaut John Young 
 
-My name is Laurent and I am a Junior iOS Developer based in Berlin.👨🏻‍💻   
+I am a lifelong learner. My name is Laurent and I am a Junior iOS Developer based in Berlin.👨🏻‍💻   
 
 Currently I am available to hire (preferably remote at this time).   
 Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). 
