@@ -17,13 +17,8 @@ My area of interest include:
 
 📫 You can DM me on [Twitter](https://twitter.com/wrmultitudes)!
 
-# 📩 Latest Blog Posts // You can name it whatever you want.
+#  👨🏻‍💻 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to clean your Xcode environment](https://laurentbrusa.hashnode.dev/how-to-clean-your-xcode-environment)
-- [Why this code compiles? Explaining some Swift magic at work!](https://laurentbrusa.hashnode.dev/why-this-code-compiles-explaining-some-swift-magic-at-work)
-- [A nice to have Xcode feature! Code Ribbons.](https://laurentbrusa.hashnode.dev/a-nice-to-have-xcode-feature-code-ribbons)
-- [How SwiftUI uses generic modifiers to create views](https://laurentbrusa.hashnode.dev/how-swiftui-uses-generic-modifiers-to-create-views)
-- [Meditation for Developers](https://laurentbrusa.hashnode.dev/meditation-for-developers)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
