@@ -21,10 +21,10 @@ My area of interest include:
 ##### From HashNode and StackOverflow
 <!-- BLOG-POST-LIST:START -->
 - [Answer by multitudes for Recursive Fibonacci memoization](https://stackoverflow.com/questions/7875380/recursive-fibonacci-memoization/64875331#64875331)
+- [How to clean your Xcode environment](https://laurentbrusa.hashnode.dev/how-to-clean-your-xcode-environment)
+- [Why this code compiles? Explaining some Swift magic at work!](https://laurentbrusa.hashnode.dev/why-this-code-compiles-explaining-some-swift-magic-at-work)
 - [Answer by multitudes for How to hide the home indicator with SwiftUI?](https://stackoverflow.com/questions/56795572/how-to-hide-the-home-indicator-with-swiftui/64623130#64623130)
-- [Answer by multitudes for Xcode Swift code folding/collapse](https://stackoverflow.com/questions/40285997/xcode-swift-code-folding-collapse/64595041#64595041)
-- [Answer by multitudes for Swift: show Date() in other language](https://stackoverflow.com/questions/62964551/swift-show-date-in-other-language/64277660#64277660)
-- [Answer by multitudes for Get nth character of a string in Swift programming language](https://stackoverflow.com/questions/24092884/get-nth-character-of-a-string-in-swift-programming-language/64206008#64206008)
+- [A nice to have Xcode feature! Code Ribbons.](https://laurentbrusa.hashnode.dev/a-nice-to-have-xcode-feature-code-ribbons)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
