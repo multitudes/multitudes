@@ -15,17 +15,15 @@ My area of interest include:
 • UIKit, both with storyboards and programmatic.  
 • Develop cross-platform native apps with SwiftUI.  
 
-🌵 Fun facts:
+Thank you for stopping by!
 
-I loved "The Queen's gambit" and started playing chess again after watching the show   
-Bruce Springsteen is my favorite musician  
-I am gluten intolerant, and still had a lots of fun baking sourdough bread during the lockdown  
+## Some extra tidbits:
+
+### 🌱 I’m currently learning: SwiftUI and Core Data
 
 
-📫 You can DM me on [Twitter](https://twitter.com/wrmultitudes)!
-
-###  👨🏻‍💻 Latest Blog Posts
-##### From HashNode and StackOverflow
+###  👨🏻‍💻 My Latest Blog Posts:
+##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
 - [Preparing Xcode for the Advent Of Code 2020 in Swift](https://laurentbrusa.hashnode.dev/preparing-xcode-for-the-advent-of-code-2020-in-swift)
 - [Answer by multitudes for Recursive Fibonacci memoization](https://stackoverflow.com/questions/7875380/recursive-fibonacci-memoization/64875331#64875331)
@@ -33,7 +31,13 @@ I am gluten intolerant, and still had a lots of fun baking sourdough bread durin
 - [Why this code compiles? Explaining some Swift magic at work!](https://laurentbrusa.hashnode.dev/why-this-code-compiles-explaining-some-swift-magic-at-work)
 - [Answer by multitudes for How to hide the home indicator with SwiftUI?](https://stackoverflow.com/questions/56795572/how-to-hide-the-home-indicator-with-swiftui/64623130#64623130)
 
+### 📫 You can DM me on [Twitter](https://twitter.com/wrmultitudes)!
 
+### 🌵 Fun facts:
+
+I loved "The Queen's gambit" and started playing chess again after watching the show   
+Bruce Springsteen is my favorite musician  
+I am gluten intolerant, and still had a lots of fun baking sourdough bread during the lockdown  
 <!-- BLOG-POST-LIST:END -->
 
 <!--
@@ -53,4 +57,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center">
+  <img src="" width="400"  title="Laurent on the bicycle">
+</p>
 -->
