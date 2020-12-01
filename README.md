@@ -16,9 +16,9 @@ My area of interest include:
 
 🌵 Fun facts:
 
-I loved "The Queen's gambit" and started playing chess again after watching the show 
-Bruce Springsteen is my favorite musician
-I am gluten intolerant, and still had a lots of fun baking sourdough bread during the lockdown
+I loved "The Queen's gambit" and started playing chess again after watching the show   
+Bruce Springsteen is my favorite musician  
+I am gluten intolerant, and still had a lots of fun baking sourdough bread during the lockdown  
 
 
 📫 You can DM me on [Twitter](https://twitter.com/wrmultitudes)!
