@@ -30,14 +30,6 @@ Thank you for stopping by!
 - [How to clean your Xcode environment](https://laurentbrusa.hashnode.dev/how-to-clean-your-xcode-environment)
 - [Why this code compiles? Explaining some Swift magic at work!](https://laurentbrusa.hashnode.dev/why-this-code-compiles-explaining-some-swift-magic-at-work)
 - [Answer by multitudes for How to hide the home indicator with SwiftUI?](https://stackoverflow.com/questions/56795572/how-to-hide-the-home-indicator-with-swiftui/64623130#64623130)
-
-### 📫 You can DM me on [Twitter](https://twitter.com/wrmultitudes)!
-
-### 🌵 Fun facts:
-
-I loved "The Queen's gambit" and started playing chess again after watching the show   
-Bruce Springsteen is my favorite musician  
-I am gluten intolerant, and still had a lots of fun baking sourdough bread during the lockdown  
 <!-- BLOG-POST-LIST:END -->
 
 <!--
