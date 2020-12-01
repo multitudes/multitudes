@@ -14,6 +14,12 @@ My area of interest include:
 • UIKit, both with storyboards and programmatic.  
 • Develop cross-platform native apps with SwiftUI.  
 
+🌵 Fun facts:
+
+I loved "The Queen's gambit" and started playing chess again after watching the show 
+Bruce Springsteen is my favorite musician
+I am gluten intolerant, and still had a lots of fun baking sourdough bread during the lockdown
+
 
 📫 You can DM me on [Twitter](https://twitter.com/wrmultitudes)!
 
@@ -26,13 +32,6 @@ My area of interest include:
 - [Why this code compiles? Explaining some Swift magic at work!](https://laurentbrusa.hashnode.dev/why-this-code-compiles-explaining-some-swift-magic-at-work)
 - [Answer by multitudes for How to hide the home indicator with SwiftUI?](https://stackoverflow.com/questions/56795572/how-to-hide-the-home-indicator-with-swiftui/64623130#64623130)
 
-😄 Pronouns: he/him/his
-
-🌵 Fun facts:
-
-I loved "The Queen's gambit" and started playing chess again after watching the show 
-Bruce Springsteen is my favorite musician
-I am gluten intolerant, and still had a lots of fun baking sourdough bread during the lockdown
 
 <!-- BLOG-POST-LIST:END -->
 
