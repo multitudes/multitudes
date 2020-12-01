@@ -3,10 +3,7 @@
 > “If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.”   
 ― John von Neumann
 
-<p align="center">
-  <img src="" width="400"  title="Laurent on the bicycle">
-</p>
-  
+ 
 I am a lifelong learner. My name is Laurent and I am a Junior iOS Developer based in Berlin.👨🏻‍💻   
 
 Currently I am available to hire (preferably remote at this time).   
