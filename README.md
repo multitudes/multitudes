@@ -27,9 +27,9 @@ Thank you for stopping by!
 <!-- BLOG-POST-LIST:START -->
 - [2020 vision 👀](https://laurentbrusa.hashnode.dev/2020-vision)
 - [Preparing Xcode for the Advent Of Code 2020 in Swift](https://laurentbrusa.hashnode.dev/preparing-xcode-for-the-advent-of-code-2020-in-swift)
+- [Answer by multitudes for Recursive Fibonacci memoization](https://stackoverflow.com/questions/7875380/recursive-fibonacci-memoization/64875331#64875331)
 - [How to clean your Xcode environment](https://laurentbrusa.hashnode.dev/how-to-clean-your-xcode-environment)
 - [Why this code compiles? Explaining some Swift magic at work!](https://laurentbrusa.hashnode.dev/why-this-code-compiles-explaining-some-swift-magic-at-work)
-- [A nice to have Xcode feature! Code Ribbons.](https://laurentbrusa.hashnode.dev/a-nice-to-have-xcode-feature-code-ribbons)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
