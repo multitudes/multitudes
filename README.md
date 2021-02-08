@@ -24,11 +24,11 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
+- [Answer by multitudes for How to connect to the Gitlab account in Xcode?](https://stackoverflow.com/questions/60286527/how-to-connect-to-the-gitlab-account-in-xcode/66102759#66102759)
 - [How to upload your beta app to TestFlight](https://laurentbrusa.hashnode.dev/how-to-upload-your-beta-app-to-testflight)
 - [Answer by multitudes for How to Modally push next Screen to be full in SwiftUI](https://stackoverflow.com/questions/56709479/how-to-modally-push-next-screen-to-be-full-in-swiftui/65776700#65776700)
 - [My favourite books in 2020](https://laurentbrusa.hashnode.dev/my-favourite-books-in-2020)
 - [2020 vision 👀](https://laurentbrusa.hashnode.dev/2020-vision)
-- [Preparing Xcode for the Advent Of Code 2020 in Swift](https://laurentbrusa.hashnode.dev/preparing-xcode-for-the-advent-of-code-2020-in-swift)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
