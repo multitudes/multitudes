@@ -24,11 +24,11 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
+- [Answer by multitudes for Load glTF model into RealityKit scene?](https://stackoverflow.com/questions/59044661/load-gltf-model-into-realitykit-scene/66206972#66206972)
 - [Answer by multitudes for How can I unwind to the MainView in SwiftUI](https://stackoverflow.com/questions/59479536/how-can-i-unwind-to-the-mainview-in-swiftui/66195910#66195910)
 - [Answer by multitudes for How to connect to the Gitlab account in Xcode?](https://stackoverflow.com/questions/60286527/how-to-connect-to-the-gitlab-account-in-xcode/66102759#66102759)
 - [How to upload your beta app to TestFlight](https://laurentbrusa.hashnode.dev/how-to-upload-your-beta-app-to-testflight)
 - [Answer by multitudes for How to Modally push next Screen to be full in SwiftUI](https://stackoverflow.com/questions/56709479/how-to-modally-push-next-screen-to-be-full-in-swiftui/65776700#65776700)
-- [My favourite books in 2020](https://laurentbrusa.hashnode.dev/my-favourite-books-in-2020)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
