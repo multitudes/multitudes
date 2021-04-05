@@ -24,11 +24,11 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
-- [Answer by multitudes for Voice over mode - Scrolling to subviews that are off view in scrollview](https://stackoverflow.com/questions/25794723/voice-over-mode-scrolling-to-subviews-that-are-off-view-in-scrollview/66952678#66952678)
 - [Answer by multitudes for How do you draw a line programmatically from a view controller?](https://stackoverflow.com/questions/16846413/how-do-you-draw-a-line-programmatically-from-a-view-controller/66367962#66367962)
 - [Answer by multitudes for Load glTF model into RealityKit scene?](https://stackoverflow.com/questions/59044661/load-gltf-model-into-realitykit-scene/66206972#66206972)
 - [Answer by multitudes for How can I unwind to the MainView in SwiftUI](https://stackoverflow.com/questions/59479536/how-can-i-unwind-to-the-mainview-in-swiftui/66195910#66195910)
 - [Answer by multitudes for How to connect to the Gitlab account in Xcode?](https://stackoverflow.com/questions/60286527/how-to-connect-to-the-gitlab-account-in-xcode/66102759#66102759)
+- [How to upload your beta app to TestFlight](https://laurentbrusa.hashnode.dev/how-to-upload-your-beta-app-to-testflight)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
