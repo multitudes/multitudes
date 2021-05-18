@@ -24,11 +24,11 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
+- [Answer by multitudes for Locale.current reporting wrong language on device](https://stackoverflow.com/questions/48136456/locale-current-reporting-wrong-language-on-device/67590337#67590337)
 - [Answer by multitudes for Programmatically get height of navigation bar](https://stackoverflow.com/questions/7312059/programmatically-get-height-of-navigation-bar/67368208#67368208)
 - [Answer by multitudes for The bundle's Info.plist does not contain a CFBundleVersion key or its value is not a string](https://stackoverflow.com/questions/43111501/the-bundles-info-plist-does-not-contain-a-cfbundleversion-key-or-its-value-is-n/67356969#67356969)
 - [How close are we to the Apple AR headsets?](https://laurentbrusa.hashnode.dev/how-close-are-we-to-the-apple-ar-headsets)
 - [Answer by multitudes for How do you draw a line programmatically from a view controller?](https://stackoverflow.com/questions/16846413/how-do-you-draw-a-line-programmatically-from-a-view-controller/66367962#66367962)
-- [Answer by multitudes for Load glTF model into RealityKit scene?](https://stackoverflow.com/questions/59044661/load-gltf-model-into-realitykit-scene/66206972#66206972)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
