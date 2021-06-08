@@ -24,11 +24,11 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
-- [Answer by multitudes for How to create a USDZ file?](https://stackoverflow.com/questions/50686813/how-to-create-a-usdz-file/67794159#67794159)
-- [Answer by multitudes for SwiftUI List selected row text color](https://stackoverflow.com/questions/59343348/swiftui-list-selected-row-text-color/67710073#67710073)
-- [Answer by multitudes for How can I write UI tests for a SwiftUI InputField](https://stackoverflow.com/questions/67619166/how-can-i-write-ui-tests-for-a-swiftui-inputfield/67623096#67623096)
-- [Answer by multitudes for Locale.current reporting wrong language on device](https://stackoverflow.com/questions/48136456/locale-current-reporting-wrong-language-on-device/67590337#67590337)
-- [Answer by multitudes for Programmatically get height of navigation bar](https://stackoverflow.com/questions/7312059/programmatically-get-height-of-navigation-bar/67368208#67368208)
+- [How close are we to the Apple AR headsets?](https://laurentbrusa.hashnode.dev/how-close-are-we-to-the-apple-ar-headsets)
+- [How to upload your beta app to TestFlight](https://laurentbrusa.hashnode.dev/how-to-upload-your-beta-app-to-testflight)
+- [My favourite books in 2020](https://laurentbrusa.hashnode.dev/my-favourite-books-in-2020)
+- [2020 vision 👀](https://laurentbrusa.hashnode.dev/2020-vision)
+- [Preparing Xcode for the Advent Of Code 2020 in Swift](https://laurentbrusa.hashnode.dev/preparing-xcode-for-the-advent-of-code-2020-in-swift)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
