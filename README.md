@@ -24,11 +24,11 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
+- [Answer by multitudes for How to get the current application icon in ios](https://stackoverflow.com/questions/9419261/how-to-get-the-current-application-icon-in-ios/68318935#68318935)
 - [Answer by multitudes for iOS how to set app icon and launch images](https://stackoverflow.com/questions/28170520/ios-how-to-set-app-icon-and-launch-images/68317893#68317893)
 - [Answer by multitudes for Unable to boot device because we cannot determine the runtime bundle](https://stackoverflow.com/questions/68306605/unable-to-boot-device-because-we-cannot-determine-the-runtime-bundle/68306606#68306606)
 - [Unable to boot device because we cannot determine the runtime bundle](https://stackoverflow.com/questions/68306605/unable-to-boot-device-because-we-cannot-determine-the-runtime-bundle)
 - [Answer by multitudes for swift. AVPlayer. How to track when song finished playing?](https://stackoverflow.com/questions/27805657/swift-avplayer-how-to-track-when-song-finished-playing/68283895#68283895)
-- [Answer by multitudes for How to create a USDZ file?](https://stackoverflow.com/questions/50686813/how-to-create-a-usdz-file/67794159#67794159)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
