@@ -24,11 +24,11 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
+- [Answer by multitudes for <SF Symbol name> not found in table SymbolNameOverrides](https://stackoverflow.com/questions/67638122/sf-symbol-name-not-found-in-table-symbolnameoverrides/69165078#69165078)
 - [Answer by multitudes for ARKit Plane Detection - Value of type 'ARView' has no member 'session'](https://stackoverflow.com/questions/56973063/arkit-plane-detection-value-of-type-arview-has-no-member-session/68498147#68498147)
 - [Answer by multitudes for Back button skipping a view in View1 -> View2 -> View3 NavigationLink](https://stackoverflow.com/questions/64728953/back-button-skipping-a-view-in-view1-view2-view3-navigationlink/68472976#68472976)
 - [Answer by multitudes for Why does MKMapView show user's location just as a pin?](https://stackoverflow.com/questions/47445473/why-does-mkmapview-show-users-location-just-as-a-pin/68444109#68444109)
 - [Answer by multitudes for How to get the current application icon in ios](https://stackoverflow.com/questions/9419261/how-to-get-the-current-application-icon-in-ios/68318935#68318935)
-- [Answer by multitudes for iOS how to set app icon and launch images](https://stackoverflow.com/questions/28170520/ios-how-to-set-app-icon-and-launch-images/68317893#68317893)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
