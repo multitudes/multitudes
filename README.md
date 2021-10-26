@@ -18,7 +18,7 @@ Thank you for stopping by!
 
 ## Some extra tidbits:
 
-### 🌱 I’m currently learning: SwiftUI and Core Data
+### 🌱 I’m currently learning: SwiftUI and Combine
 
 
 ###  👨🏻‍💻 My Latest Blog Posts:
