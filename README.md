@@ -24,7 +24,7 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
-- [Let's create an accessible Audio Player View in SwiftUI](https://laurentbrusa.hashnode.dev/lets-create-an-accessible-audio-player-view-in-swiftui)
+- [Creating an accessible audio player in SwiftUI](https://laurentbrusa.hashnode.dev/creating-an-accessible-audio-player-in-swiftui)
 - [Xcode 13 - The project at '/Users/test.xcodeproj' cannot be opened because it is in a future Xcode project file format](https://stackoverflow.com/questions/69344013/xcode-13-the-project-at-users-test-xcodeproj-cannot-be-opened-because-it-is)
 - [Answer by multitudes for Xcode 13 - The project at '/Users/test.xcodeproj' cannot be opened because it is in a future Xcode project file format](https://stackoverflow.com/questions/69344013/xcode-13-the-project-at-users-test-xcodeproj-cannot-be-opened-because-it-is/69344014#69344014)
 - [Answer by multitudes for <SF Symbol name> not found in table SymbolNameOverrides](https://stackoverflow.com/questions/67638122/sf-symbol-name-not-found-in-table-symbolnameoverrides/69165078#69165078)
