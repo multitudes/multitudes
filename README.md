@@ -24,11 +24,11 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
+- [Answer by multitudes for How do I install a newer swift-tools-version?](https://stackoverflow.com/questions/63404251/how-do-i-install-a-newer-swift-tools-version/69932928#69932928)
 - [Answer by multitudes for Wrap SwiftUI Text into two columns](https://stackoverflow.com/questions/67437725/wrap-swiftui-text-into-two-columns/69901892#69901892)
 - [Answer by multitudes for Can .strings resource files be added at runtime?](https://stackoverflow.com/questions/6075158/can-strings-resource-files-be-added-at-runtime/69838036#69838036)
 - [Answer by multitudes for Adding strings localization files from a server](https://stackoverflow.com/questions/7946686/adding-strings-localization-files-from-a-server/69809899#69809899)
 - [Creating an accessible audio player in SwiftUI](https://laurentbrusa.hashnode.dev/creating-an-accessible-audio-player-in-swiftui)
-- [Xcode 13 - The project at &#39;/Users/test.xcodeproj&#39; cannot be opened because it is in a future Xcode project file format](https://stackoverflow.com/questions/69344013/xcode-13-the-project-at-users-test-xcodeproj-cannot-be-opened-because-it-is)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
