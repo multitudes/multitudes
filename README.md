@@ -24,11 +24,11 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
+- [Answer by multitudes for SwiftUI | Picker - Change selected row color](https://stackoverflow.com/questions/64523972/swiftui-picker-change-selected-row-color/69944302#69944302)
 - [Answer by multitudes for Implement dark mode switch in SwiftUI App](https://stackoverflow.com/questions/58476048/implement-dark-mode-switch-in-swiftui-app/69941113#69941113)
 - [Answer by multitudes for How do I install a newer swift-tools-version?](https://stackoverflow.com/questions/63404251/how-do-i-install-a-newer-swift-tools-version/69932928#69932928)
 - [Answer by multitudes for Wrap SwiftUI Text into two columns](https://stackoverflow.com/questions/67437725/wrap-swiftui-text-into-two-columns/69901892#69901892)
 - [Answer by multitudes for Can .strings resource files be added at runtime?](https://stackoverflow.com/questions/6075158/can-strings-resource-files-be-added-at-runtime/69838036#69838036)
-- [Answer by multitudes for Adding strings localization files from a server](https://stackoverflow.com/questions/7946686/adding-strings-localization-files-from-a-server/69809899#69809899)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
