@@ -24,11 +24,11 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
+- [Using the Canvas in SwiftUI for the Advent of Code](https://laurentbrusa.hashnode.dev/using-the-canvas-in-swiftui-for-the-advent-of-code)
 - [Answer by multitudes for Exponentiation operator in Swift](https://stackoverflow.com/questions/24065801/exponentiation-operator-in-swift/70406513#70406513)
 - [Setting up this year advent of code 2021 in Swift](https://laurentbrusa.hashnode.dev/setting-up-this-year-advent-of-code-2021-in-swift)
 - [Answer by multitudes for ChromaKey video in ARKit](https://stackoverflow.com/questions/49960262/chromakey-video-in-arkit/70110548#70110548)
 - [Answer by multitudes for SwiftUI: How to let the user set the app appearance in real-time w/ options &quot;light&quot;, &quot;dark&quot;, and &quot;system&quot;?](https://stackoverflow.com/questions/65798263/swiftui-how-to-let-the-user-set-the-app-appearance-in-real-time-w-options-lig/69946169#69946169)
-- [Answer by multitudes for SwiftUI | Picker - Change selected row color](https://stackoverflow.com/questions/64523972/swiftui-picker-change-selected-row-color/69944302#69944302)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
