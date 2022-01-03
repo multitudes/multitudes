@@ -9,7 +9,7 @@ I am a lifelong learner. My name is Laurent and I am a iOS Developer based in Be
 Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). 
 And at my [CV](https://multitudes.github.io/images/cv/cv-for-ios-nov2020.pdf)!
 
-My area of interest include:  
+Things that I do  
 • Programming in Swift.  
 • UIKit, both with storyboards and programmatic.  
 • Develop cross-platform native apps with SwiftUI.  
