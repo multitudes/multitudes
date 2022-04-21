@@ -24,11 +24,11 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
-- [Creating an accessible audio player in SwiftUI &lpar;part 2&rpar;](https://laurentbrusa.hashnode.dev/creating-an-accessible-audio-player-in-swiftui-part-2)
-- [Using the Canvas in SwiftUI for the Advent of Code](https://laurentbrusa.hashnode.dev/using-the-canvas-in-swiftui-for-the-advent-of-code)
-- [Setting up this year advent of code 2021 in Swift](https://laurentbrusa.hashnode.dev/setting-up-this-year-advent-of-code-2021-in-swift)
 - [Answer by multitudes for ChromaKey video in ARKit](https://stackoverflow.com/questions/49960262/chromakey-video-in-arkit/70110548#70110548)
 - [Answer by multitudes for SwiftUI: How to let the user set the app appearance in real-time w/ options &quot;light&quot;, &quot;dark&quot;, and &quot;system&quot;?](https://stackoverflow.com/questions/65798263/swiftui-how-to-let-the-user-set-the-app-appearance-in-real-time-w-options-lig/69946169#69946169)
+- [Answer by multitudes for SwiftUI | Picker - Change selected row color](https://stackoverflow.com/questions/64523972/swiftui-picker-change-selected-row-color/69944302#69944302)
+- [Answer by multitudes for Implement dark mode switch in SwiftUI App](https://stackoverflow.com/questions/58476048/implement-dark-mode-switch-in-swiftui-app/69941113#69941113)
+- [Answer by multitudes for How do I install a newer swift-tools-version?](https://stackoverflow.com/questions/63404251/how-do-i-install-a-newer-swift-tools-version/69932928#69932928)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
