@@ -20,6 +20,7 @@ Thank you for stopping by!
 
 ### 🌱 I’m currently learning: SwiftUI and Combine
 
+<a rel="me" href="https://techhub.social/@Laurentbrusa">Mastodon</a>
 
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
