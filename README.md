@@ -7,7 +7,7 @@
 I am a lifelong learner. My name is Laurent and I am a iOS Developer based in Berlin.👨🏻‍💻   
 
 Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). 
-And at my [CV](https://multitudes.github.io/images/cv/cv-for-ios-nov2020.pdf)!
+And at my [CV](https://github.com/multitudes/multitudes.github.io/blob/master/images/cv/cv-for-ios-jan2023.pdf!
 
 Things that I do  
 • Programming in Swift.  
