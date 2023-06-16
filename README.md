@@ -18,7 +18,7 @@ Thank you for stopping by!
 
 ## Some extra tidbits:
 
-### 🌱 I’m currently learning: SwiftUI and Combine
+### 🌱 I’m currently watching: All videos from WWDC23!
 
 ### Find me here:
 <a rel="me" href="https://iosdev.space/@multitudes">Mastodon</a>
