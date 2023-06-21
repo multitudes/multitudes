@@ -22,6 +22,7 @@ Thank you for stopping by!
 
 ### Find me here:
 <a rel="me" href="https://iosdev.space/@multitudes">Mastodon</a>
+<a rel="me" href="[https://iosdev.space/@multitudes](https://laurentbrusa.hashnode.dev)">Hashnode</a>
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
