@@ -26,11 +26,11 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
+- [Reflections on My Sabbatical Year, Personal Growth and Well-Being](https://laurentbrusa.hashnode.dev/reflections-on-my-sabbatical-year-personal-growth-and-well-being)
 - [Creating an accessible audio player in SwiftUI &lpar;part 2&rpar;](https://laurentbrusa.hashnode.dev/creating-an-accessible-audio-player-in-swiftui-part-2)
 - [Using the Canvas in SwiftUI for the Advent of Code](https://laurentbrusa.hashnode.dev/using-the-canvas-in-swiftui-for-the-advent-of-code)
 - [Setting up this year advent of code 2021 in Swift](https://laurentbrusa.hashnode.dev/setting-up-this-year-advent-of-code-2021-in-swift)
 - [Answer by multitudes for ChromaKey video in ARKit](https://stackoverflow.com/questions/49960262/chromakey-video-in-arkit/70110548#70110548)
-- [Answer by multitudes for SwiftUI: How to let the user set the app appearance in real-time w/ options &quot;light&quot;, &quot;dark&quot;, and &quot;system&quot;?](https://stackoverflow.com/questions/65798263/swiftui-how-to-let-the-user-set-the-app-appearance-in-real-time-w-options-lig/69946169#69946169)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
