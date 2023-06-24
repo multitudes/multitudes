@@ -26,11 +26,11 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
+- [List of the Books I read during my Sabbatical](https://laurentbrusa.hashnode.dev/list-of-the-books-i-read-during-my-sabbatical)
 - [Unlocking Nature: A Software Developer&#39;s Sabbatical Journey](https://laurentbrusa.hashnode.dev/unlocking-nature-a-software-developers-sabbatical-journey)
 - [Reflections on My Sabbatical Year, Personal Growth and Well-Being](https://laurentbrusa.hashnode.dev/reflections-on-my-sabbatical-year-personal-growth-and-well-being)
 - [Creating an accessible audio player in SwiftUI &lpar;part 2&rpar;](https://laurentbrusa.hashnode.dev/creating-an-accessible-audio-player-in-swiftui-part-2)
 - [Using the Canvas in SwiftUI for the Advent of Code](https://laurentbrusa.hashnode.dev/using-the-canvas-in-swiftui-for-the-advent-of-code)
-- [Setting up this year advent of code 2021 in Swift](https://laurentbrusa.hashnode.dev/setting-up-this-year-advent-of-code-2021-in-swift)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
