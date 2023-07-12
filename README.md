@@ -26,11 +26,11 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
+- [Where is my Index At?](https://laurentbrusa.hashnode.dev/where-is-my-index-at)
 - [Setting up a Sonoma VM](https://laurentbrusa.hashnode.dev/setting-up-a-sonoma-vm)
 - [A short book review of: &quot;Joy of Agility&quot; by Joshua Kerievsky](https://laurentbrusa.hashnode.dev/a-short-book-review-of-joy-of-agility-by-joshua-kerievsky)
 - [Passing the LinkedIn Assessment Test for Agile Methodologies](https://laurentbrusa.hashnode.dev/passing-the-linkedin-assessment-test-for-agile-methodologies)
 - [List of the books I read during my sabbatical](https://laurentbrusa.hashnode.dev/list-of-the-books-i-read-during-my-sabbatical)
-- [Unlocking Nature: A Software Developer&#39;s Sabbatical Journey](https://laurentbrusa.hashnode.dev/unlocking-nature-a-software-developers-sabbatical-journey)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
