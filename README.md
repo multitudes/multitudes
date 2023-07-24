@@ -26,11 +26,11 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
+- [How secure is your Mac really?](https://laurentbrusa.hashnode.dev/how-secure-is-your-mac-really)
 - [What does Apple mean by &quot;Enable Dead Code Stripping&quot;](https://stackoverflow.com/questions/76698042/what-does-apple-mean-by-enable-dead-code-stripping)
 - [Where is my Index At?](https://laurentbrusa.hashnode.dev/where-is-my-index-at)
 - [Setting up a Sonoma VM](https://laurentbrusa.hashnode.dev/setting-up-a-sonoma-vm)
 - [A short book review of: &quot;Joy of Agility&quot; by Joshua Kerievsky](https://laurentbrusa.hashnode.dev/a-short-book-review-of-joy-of-agility-by-joshua-kerievsky)
-- [Passing the LinkedIn Assessment Test for Agile Methodologies](https://laurentbrusa.hashnode.dev/passing-the-linkedin-assessment-test-for-agile-methodologies)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
