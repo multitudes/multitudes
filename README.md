@@ -26,11 +26,11 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
+- [Answer by multitudes for swiftui mapkit polygon overlay](https://stackoverflow.com/questions/72422303/swiftui-mapkit-polygon-overlay/76853205#76853205)
 - [Summarising WWDC22 - &quot;What&#39;s new in MapKit&quot; 🗺️](https://laurentbrusa.hashnode.dev/summarising-wwdc22-whats-new-in-mapkit)
 - [Summarising &quot;Meet MapKit for SwiftUI&quot; from WWDC23 😃](https://laurentbrusa.hashnode.dev/summarising-meet-mapkit-for-swiftui-from-wwdc23)
 - [Answer by multitudes for NavigationLink isActive deprecated](https://stackoverflow.com/questions/73036878/navigationlink-isactive-deprecated/76772102#76772102)
 - [How secure is your Mac really?](https://laurentbrusa.hashnode.dev/how-secure-is-your-mac-really)
-- [What does Apple mean by &quot;Enable Dead Code Stripping&quot;](https://stackoverflow.com/questions/76698042/what-does-apple-mean-by-enable-dead-code-stripping)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
