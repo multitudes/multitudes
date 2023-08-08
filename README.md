@@ -20,7 +20,7 @@ Thank you for stopping by!
 ### 🌱 I’m currently watching: All videos from WWDC23!
 
 ### Find me here:
-<a rel="me" href="https://bsky.app/profile/laurentbrusa.bsky.social">Bluesky</a>
+<a rel="me" href="https://bsky.app/profile/laurentbrusa.bsky.social">Bluesky</a>  
 <a rel="me" href="https://iosdev.space/@multitudes">Mastodon</a>  
 <a rel="me" href="https://laurentbrusa.hashnode.dev">Hashnode</a>
 ###  👨🏻‍💻 My Latest Blog Posts:
