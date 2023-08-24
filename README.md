@@ -26,11 +26,11 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
+- [Answer by multitudes for How to install iOS 17 beta simulators in Xcode 15 beta](https://stackoverflow.com/questions/76968932/how-to-install-ios-17-beta-simulators-in-xcode-15-beta/76968978#76968978)
+- [How to install iOS 17 beta simulators in Xcode 15 beta](https://stackoverflow.com/questions/76968932/how-to-install-ios-17-beta-simulators-in-xcode-15-beta)
 - [Code-Along Project With MapKit for SwiftUI - Part 1](https://laurentbrusa.hashnode.dev/code-along-project-with-mapkit-for-swiftui-part-1)
 - [Answer by multitudes for swiftui mapkit polygon overlay](https://stackoverflow.com/questions/72422303/swiftui-mapkit-polygon-overlay/76853205#76853205)
 - [Summarising WWDC22 - &quot;What&#39;s new in MapKit&quot; 🗺️](https://laurentbrusa.hashnode.dev/summarising-wwdc22-whats-new-in-mapkit)
-- [Summarising &quot;Meet MapKit for SwiftUI&quot; from WWDC23 😃](https://laurentbrusa.hashnode.dev/summarising-meet-mapkit-for-swiftui-from-wwdc23)
-- [Answer by multitudes for NavigationLink isActive deprecated](https://stackoverflow.com/questions/73036878/navigationlink-isactive-deprecated/76772102#76772102)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
