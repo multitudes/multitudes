@@ -26,11 +26,11 @@ Thank you for stopping by!
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
+- [Code-Along Project With MapKit for SwiftUI - Part 2](https://laurentbrusa.hashnode.dev/code-along-project-with-mapkit-for-swiftui-part-2)
 - [Answer by multitudes for How to install iOS 17 beta simulators in Xcode 15 beta](https://stackoverflow.com/questions/76968932/how-to-install-ios-17-beta-simulators-in-xcode-15-beta/76968978#76968978)
 - [How to install iOS 17 beta simulators in Xcode 15 beta](https://stackoverflow.com/questions/76968932/how-to-install-ios-17-beta-simulators-in-xcode-15-beta)
 - [Code-Along Project With MapKit for SwiftUI - Part 1](https://laurentbrusa.hashnode.dev/code-along-project-with-mapkit-for-swiftui-part-1)
 - [Answer by multitudes for swiftui mapkit polygon overlay](https://stackoverflow.com/questions/72422303/swiftui-mapkit-polygon-overlay/76853205#76853205)
-- [Summarising WWDC22 - &quot;What&#39;s new in MapKit&quot; 🗺️](https://laurentbrusa.hashnode.dev/summarising-wwdc22-whats-new-in-mapkit)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
