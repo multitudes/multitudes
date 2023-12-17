@@ -16,10 +16,6 @@ Things that I do
 
 Thank you for stopping by!
 
-## Some extra tidbits:
-
-### 🌱 I’m currently watching: All videos from WWDC23!
-
 ### Find me here:
 <a rel="me" href="https://bsky.app/profile/laurentbrusa.bsky.social">Bluesky</a>  
 <a rel="me" href="https://iosdev.space/@multitudes">Mastodon</a>  
