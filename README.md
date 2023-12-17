@@ -1,7 +1,7 @@
 # Hi there 👋
 
-> “If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.”   
-― John von Neumann
+> “A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.”
+― Douglas Adams, Mostly Harmless
 
 I am a lifelong learner. My name is Laurent and I am a iOS Developer and 42Berlin student, based in Berlin.👨🏻‍💻   
 
