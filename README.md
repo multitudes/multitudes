@@ -3,7 +3,7 @@
 > “If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.”   
 ― John von Neumann
 
-I am a lifelong learner. My name is Laurent and I am a iOS Developer based in Berlin.👨🏻‍💻   
+I am a lifelong learner. My name is Laurent and I am a iOS Developer and 42Berlin student, based in Berlin.👨🏻‍💻   
 
 Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). 
 And at my [CV](https://github.com/multitudes/multitudes.github.io/blob/master/images/cv/cv-for-ios-jun2023.pdf)!
@@ -12,6 +12,7 @@ Things that I do
 • Programming in Swift.  
 • UIKit, both with storyboards and programmatic.  
 • Develop cross-platform native apps with SwiftUI.  
+• Following the core curriculum in C and C++ at 42 Berlin.  
 
 Thank you for stopping by!
 
