@@ -17,10 +17,8 @@ And at my [CV](https://github.com/multitudes/multitudes.github.io/blob/master/im
 
 <br>
 
-Things that I do  
-• Programming in Swift.  
-• UIKit, both with storyboards and programmatic.  
-• Develop cross-platform native apps with SwiftUI.  
+Things that I do:  
+• Programming and creating apps natively with Swift and SwiftUI/UIKit.  
 • Following the core curriculum in C and C++ at 42 Berlin.  
 
 Thank you for stopping by!
@@ -29,6 +27,7 @@ Thank you for stopping by!
 <a rel="me" href="https://bsky.app/profile/laurentbrusa.bsky.social">Bluesky</a>  
 <a rel="me" href="https://iosdev.space/@multitudes">Mastodon</a>  
 <a rel="me" href="https://laurentbrusa.hashnode.dev">Hashnode</a>
+
 ###  👨🏻‍💻 My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
