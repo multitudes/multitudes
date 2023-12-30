@@ -29,7 +29,7 @@ Thank you for stopping by!
 <a rel="me" href="https://iosdev.space/@multitudes">Mastodon</a>  
 <a rel="me" href="https://laurentbrusa.hashnode.dev">Hashnode</a>
 
-###  👨🏻‍💻 My Latest Blog Posts:
+###  My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
 - [Code-Along Project With MapKit for SwiftUI - Part 6](https://laurentbrusa.hashnode.dev/code-along-project-with-mapkit-for-swiftui-part-6)
@@ -38,6 +38,10 @@ Thank you for stopping by!
 - [Code-Along Project With MapKit for SwiftUI - Part 4](https://laurentbrusa.hashnode.dev/code-along-project-with-mapkit-for-swiftui-part-4)
 - [Code-Along Project With MapKit for SwiftUI - Part 3](https://laurentbrusa.hashnode.dev/code-along-project-with-mapkit-for-swiftui-part-3)
 <!-- BLOG-POST-LIST:END -->
+
+## Current Technical Skills
+
+[![My Skills](https://skillicons.dev/icons?i=swift,c,cpp,bash,linux,py,r,vim,vscode,stackoverflow,html,css,github,gitlab,git,arduino,raspberrypi,mysql,&theme=dark&perline=9)](https://skillicons.dev)
 
 <!--
 
