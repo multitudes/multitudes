@@ -11,7 +11,7 @@ And at my [CV](https://github.com/multitudes/multitudes.github.io/blob/master/im
 <details>
   <summary>🚀 My Holy Graph</summary>
 
-  ![Holy Graph]()
+  ![Holy Graph](HolyGraph.png)
 
   </details>
 
