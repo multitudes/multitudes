@@ -3,10 +3,19 @@
 > “A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.”
 ― Douglas Adams, Mostly Harmless
 
-I am a lifelong learner. My name is Laurent and I am a iOS Developer and 42Berlin student, based in Berlin.👨🏻‍💻   
+I am a lifelong learner. My name is Laurent and I am an iOS Developer and 42Berlin student. 👨🏻‍💻   
 
 Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). 
 And at my [CV](https://github.com/multitudes/multitudes.github.io/blob/master/images/cv/cv-for-ios-jun2023.pdf)!
+
+<details>
+  <summary>🚀 My Holy Graph</summary>
+
+  ![Holy Graph]()
+
+  </details>
+
+<br>
 
 Things that I do  
 • Programming in Swift.  
