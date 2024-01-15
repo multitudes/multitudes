@@ -14,7 +14,8 @@ The core curriculu is focused on Unix, C, C++ and System administration.  The ho
 <details>
   <summary>🚀 My Holy Graph progression at 42 Berlin</summary>
 
-  ![Holy Graph](HolyGraph.png)
+  ![HolyGraph](https://github.com/multitudes/multitudes/assets/29355828/288d7951-0339-4ebd-a50e-12f3caae86b4)
+
 
   </details>
 
