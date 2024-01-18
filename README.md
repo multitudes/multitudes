@@ -8,8 +8,7 @@ I am a lifelong learner. My name is Laurent and I am an iOS Developer and 42Berl
 Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). 
 And at my [CV](https://github.com/multitudes/multitudes.github.io/blob/master/images/cv/cv-for-ios-jun2023.pdf)!
 
-I am currently following the core curriculum at [42Berlin](https://42berlin.de/) a non-profit Coding School using peer-to-peer, gamified learning to inspire tech for good!  
-The core curriculu is focused on Unix, C, C++ and System administration.  The holy graph shows the progression in the core curriculum (the concentric cores).
+I am currently following the core curriculum at [42Berlin](https://42berlin.de/) a non-profit Coding School using peer-to-peer, gamified learning to inspire tech for good! The core curriculu is focused on Unix, C, C++ and System administration.  The holy graph shows the progression in the core curriculum (the concentric cores).
 
 <details>
   <summary>🚀 My Holy Graph progression at 42 Berlin</summary>
