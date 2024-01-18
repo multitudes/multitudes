@@ -20,7 +20,7 @@ I am currently following the core curriculum at [42Berlin](https://42berlin.de/)
 
 Things that I do:  
 • Programming and creating apps natively with Swift and SwiftUI/UIKit.  
-• Following the core curriculum in C and C++ at 42 Berlin.  
+• Keep on learning new things.
 
 Thank you for stopping by!
 
