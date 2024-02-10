@@ -26,10 +26,13 @@ Thank you for stopping by!
 
 ### Find me here:
 <a rel="me" href="https://linktr.ee/laurentbrusa">My Linktree</a>  
-<a rel="me" href="https://www.linkedin.com/in/laurentbrusa/">Linkedin</a>  
-<a rel="me" href="https://bsky.app/profile/laurentbrusa.bsky.social">Bluesky</a>  
-<a rel="me" href="https://iosdev.space/@multitudes">Mastodon</a>  
-<a rel="me" href="https://laurentbrusa.hashnode.dev">Hashnode</a>
+<p align="left">
+  <img src="https://github.com/multitudes/multitudes.github.io/blob/5714b0573a9faa540dd561366d60aae82dc2e71d/images/laurentbrusaQR.png" width="200"  title="My Linktree QR">
+</p>
+<a rel="me" href="https://www.linkedin.com/in/laurentbrusa/">Linkedin</a>&nbsp;
+<a rel="me" href="https://bsky.app/profile/laurentbrusa.bsky.social">Bluesky</a>&nbsp;
+<a rel="me" href="https://iosdev.space/@multitudes">Mastodon</a>&nbsp;
+<a rel="me" href="https://laurentbrusa.hashnode.dev">Hashnode</a>&nbsp;
 
 ###  My Latest Blog Posts:
 ##### (From HashNode and StackOverflow)
