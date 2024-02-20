@@ -44,9 +44,16 @@ Thank you for stopping by!
 - [Code-Along Project With MapKit for SwiftUI - Part 2](https://laurentbrusa.hashnode.dev/code-along-project-with-mapkit-for-swiftui-part-2)
 <!-- BLOG-POST-LIST:END -->
 
+### 42 School Projects
+<div align="center">
+
+<a href="">![42 Badge](https://github.com/multitudes/multitudes/blob/main/42_badges/libfte.png)</a>
+
+</div>
 ## Current Technical Skills
 
 [![My Skills](https://skillicons.dev/icons?i=swift,c,cpp,bash,linux,py,r,vim,vscode,stackoverflow,html,css,github,gitlab,git,arduino,raspberrypi,mysql,&theme=dark&perline=9)](https://skillicons.dev)
+
 
 <!--
 
