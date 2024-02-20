@@ -54,6 +54,7 @@ Thank you for stopping by!
 </div>
 <a href="">![42 Badge](https://github.com/multitudes/multitudes/blob/576f9f9a7d27db61bad2f2e5597dbb338b008ae0/42_badges/born2berootm.png)</a>
 </div>
+
 ## Current Technical Skills
 
 [![My Skills](https://skillicons.dev/icons?i=swift,c,cpp,bash,linux,py,r,vim,vscode,stackoverflow,html,css,github,gitlab,git,arduino,raspberrypi,mysql,&theme=dark&perline=9)](https://skillicons.dev)
