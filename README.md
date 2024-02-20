@@ -51,7 +51,6 @@ Thank you for stopping by!
 
 <a href="">![42 Badge](https://github.com/multitudes/multitudes/blob/main/42_badges/libfte.png)</a>
 <a href="">![42 Badge](https://github.com/multitudes/multitudes/blob/576f9f9a7d27db61bad2f2e5597dbb338b008ae0/42_badges/ft_printfm.png)</a>
-</div>
 <a href="">![42 Badge](https://github.com/multitudes/multitudes/blob/177533884e124d8a79da0b02ea61fc429213236a/42_badges/born2berootm.png)</a>
 </div>
 
