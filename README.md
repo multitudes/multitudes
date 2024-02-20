@@ -47,7 +47,7 @@ Thank you for stopping by!
 ### 42 School Projects
 <div align="center">
 
-<a href="">![42 Badge]([https://github.com/multitudes/multitudes/blob/main/42_badges/libfte.png](https://github.com/multitudes/multitudes/blob/dbdf96226774620763aeebafa6b6be4e5e30897d/42_badges/libfte.png))</a>
+<a href="">![42 Badge](https://github.com/multitudes/multitudes/blob/dbdf96226774620763aeebafa6b6be4e5e30897d/42_badges/libfte.png)</a>
 
 </div>
 ## Current Technical Skills
