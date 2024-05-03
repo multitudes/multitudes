@@ -13,7 +13,7 @@ I am currently following the core curriculum at [42Berlin](https://42berlin.de/)
 <details>
   <summary>🚀 My Holy Graph progression at 42 Berlin</summary>
 
-  ![HolyGraph](holy_graph_feb.png)
+  ![HolyGraph](holygraph.jpg)
 
 
   </details>
