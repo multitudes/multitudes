@@ -16,7 +16,7 @@ The holy graph shows the progression in the core curriculum going through the co
 ### Find me here:
 <a rel="me" href="https://linktr.ee/laurentbrusa">My Linktree</a>  
 <details>
-  <summary>My Linktree QR code:</summary>
+  <summary>My Linktree QR code</summary>
   <p align="left">
     <img src="https://github.com/multitudes/multitudes.github.io/blob/5714b0573a9faa540dd561366d60aae82dc2e71d/images/laurentbrusaQR.png" width="200"  title="My Linktree QR">
   </p>
