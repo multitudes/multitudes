@@ -51,7 +51,7 @@ The holy graph shows the progression in the core curriculum going through the co
 <a href="">![42 Badge](https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/fract-olm.png)</a>
 <a href="">![42 Badge](https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/push_swapm.png)</a>
 <a href="">![42 Badge](https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/minitalkm.png)</a>
-
+<a href="">![42 Badge](https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/philosophersm.png)</a>
 </div>
 
 ## Current Technical Skills
