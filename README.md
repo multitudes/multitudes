@@ -1,14 +1,17 @@
-# Hi there! 
+# Hi there, I am Laurent! 
+> “In the beginning there was nothing, which exploded.” ― Terry Pratchett
 
-> “A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.”
-― Douglas Adams, Mostly Harmless
+Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md).  
+And at my [CV](https://github.com/multitudes/multitudes.github.io/blob/master/images/cv/cv-for-ios-jun2023.pdf)!  
 
+I am a freelance iOS developer and a student, currently following the core curriculum at [42Berlin](https://42berlin.de/) a non-profit Coding School using peer-to-peer, gamified learning to inspire tech for good! The core curriculu is focused on Unix, C, C++ and System administration.  
 
-I am currently following the core curriculum at [42Berlin](https://42berlin.de/) a non-profit Coding School using peer-to-peer, gamified learning to inspire tech for good! The core curriculu is focused on Unix, C, C++ and System administration.  The holy graph shows the progression in the core curriculum going through the concentric cores project after project. Each circle is terminated by absolving an exam. Three hours time to code without internet and distraction using vim and no autocomplete or copilot!
 <details>
   <summary>🚀 My Holy Graph progression at 42 Berlin</summary>
   ![HolyGraph](holygraph.jpg)
 </details>
+
+The holy graph shows the progression in the core curriculum going through the concentric cores project after project. Each circle is terminated by absolving an exam. Three hours time to code without internet and distraction using vim and no autocomplete or copilot! 
 
 ### Find me here:
 <a rel="me" href="https://linktr.ee/laurentbrusa">My Linktree</a>  
@@ -26,8 +29,6 @@ I am currently following the core curriculum at [42Berlin](https://42berlin.de/)
 <a rel="me" href="https://laurentbrusa.hashnode.dev">Hashnode</a>&nbsp;
 
 ###  My Latest Blog Posts:
-Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). 
-And at my [CV](https://github.com/multitudes/multitudes.github.io/blob/master/images/cv/cv-for-ios-jun2023.pdf)!
 
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
