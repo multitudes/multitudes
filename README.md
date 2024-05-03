@@ -1,7 +1,8 @@
+# Hi there! 
+
 > “A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.”
 ― Douglas Adams, Mostly Harmless
 
-I am a lifelong learner. My name is Laurent and I am an iOS Developer and a student at 42Berlin, a non profit higher education based on coding and peer learning.     
 
 I am currently following the core curriculum at [42Berlin](https://42berlin.de/) a non-profit Coding School using peer-to-peer, gamified learning to inspire tech for good! The core curriculu is focused on Unix, C, C++ and System administration.  The holy graph shows the progression in the core curriculum going through the concentric cores project after project. Each circle is terminated by absolving an exam. Three hours time to code without internet and distraction using vim and no autocomplete or copilot!
 <details>
