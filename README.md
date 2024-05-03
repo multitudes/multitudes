@@ -1,40 +1,33 @@
-# Hi there!
-
 > “A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.”
 ― Douglas Adams, Mostly Harmless
 
-I am a lifelong learner. My name is Laurent and I am an iOS Developer and 42Berlin student. 👨🏻‍💻   
+I am a lifelong learner. My name is Laurent and I am an iOS Developer and a student at 42Berlin, a non profit higher education based on coding and peer learning.     
 
-Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). 
-And at my [CV](https://github.com/multitudes/multitudes.github.io/blob/master/images/cv/cv-for-ios-jun2023.pdf)!
-
-I am currently following the core curriculum at [42Berlin](https://42berlin.de/) a non-profit Coding School using peer-to-peer, gamified learning to inspire tech for good! The core curriculu is focused on Unix, C, C++ and System administration.  The holy graph shows the progression in the core curriculum (the concentric cores).
-
+I am currently following the core curriculum at [42Berlin](https://42berlin.de/) a non-profit Coding School using peer-to-peer, gamified learning to inspire tech for good! The core curriculu is focused on Unix, C, C++ and System administration.  The holy graph shows the progression in the core curriculum going through the concentric cores project after project. Each circle is terminated by absolving an exam. Three hours time to code without internet and distraction using vim and no autocomplete or copilot!
 <details>
   <summary>🚀 My Holy Graph progression at 42 Berlin</summary>
-
   ![HolyGraph](holygraph.jpg)
-
-
-  </details>
-
-Things that I do:  
-• Programming and creating apps natively with Swift and SwiftUI/UIKit.  
-• Keep on learning new things.
-
-Thank you for stopping by!
+</details>
 
 ### Find me here:
 <a rel="me" href="https://linktr.ee/laurentbrusa">My Linktree</a>  
-<p align="left">
-  <img src="https://github.com/multitudes/multitudes.github.io/blob/5714b0573a9faa540dd561366d60aae82dc2e71d/images/laurentbrusaQR.png" width="200"  title="My Linktree QR">
-</p>
+<details>
+  <summary>My Linktree QR code:</summary>
+  <p align="left">
+    <img src="https://github.com/multitudes/multitudes.github.io/blob/5714b0573a9faa540dd561366d60aae82dc2e71d/images/laurentbrusaQR.png" width="200"  title="My Linktree QR">
+  </p>
+</details>
+
+
 <a rel="me" href="https://www.linkedin.com/in/laurentbrusa/">Linkedin</a>&nbsp;
 <a rel="me" href="https://bsky.app/profile/laurentbrusa.bsky.social">Bluesky</a>&nbsp;
 <a rel="me" href="https://iosdev.space/@multitudes">Mastodon</a>&nbsp;
 <a rel="me" href="https://laurentbrusa.hashnode.dev">Hashnode</a>&nbsp;
 
 ###  My Latest Blog Posts:
+Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md). 
+And at my [CV](https://github.com/multitudes/multitudes.github.io/blob/master/images/cv/cv-for-ios-jun2023.pdf)!
+
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
 - [Code-Along Project With MapKit for SwiftUI - Part 6](https://laurentbrusa.hashnode.dev/code-along-project-with-mapkit-for-swiftui-part-6)
