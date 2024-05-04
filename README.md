@@ -50,7 +50,7 @@ The holy graph shows the progression in the core curriculum going through the co
 <a href=""><img src="https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/get_next_linem.png" width="75" height="75"></a>
 <a href=""><img src="https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/fract-olm.png" width="75" height="75"></a>
 <a href=""><img src="https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/push_swapm.png" width="75" height="75"></a>
-<a href="https://github.com/multitudes/42-MiniTalk"><img src="https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/minitalkm.png" width="75" height="75"></a>
+<a href="https://github.com/multitudes/42-MiniTalk/blob/main/README.md"><img src="https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/minitalkm.png" width="75" height="75"></a>
 <a href=""><img src="https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/philosophersm.png" width="75" height="75"></a>
 </div>
 
