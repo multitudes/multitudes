@@ -44,14 +44,14 @@ The holy graph shows the progression in the core curriculum going through the co
 ### 42 School Projects
 <div align="center">
 
-<a href="">![42 Badge](https://github.com/multitudes/multitudes/blob/c19ad992746480d6a958e40b34dd7394287e7bee/42_badges/libftm.png)</a>
-<a href="">![42 Badge](https://github.com/multitudes/multitudes/blob/576f9f9a7d27db61bad2f2e5597dbb338b008ae0/42_badges/ft_printfm.png)</a>
-<a href="">![42 Badge](https://github.com/multitudes/multitudes/blob/177533884e124d8a79da0b02ea61fc429213236a/42_badges/born2berootm.png)</a>
-<a href="">![42 Badge](https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/get_next_linem.png)</a>
-<a href="">![42 Badge](https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/fract-olm.png)</a>
-<a href="">![42 Badge](https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/push_swapm.png)</a>
-<a href="">![42 Badge](https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/minitalkm.png)</a>
-<a href="">![42 Badge](https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/philosophersm.png)</a>
+<a href=""><img src="https://github.com/multitudes/multitudes/blob/c19ad992746480d6a958e40b34dd7394287e7bee/42_badges/libftm.png" width="100" height="100"></a>
+<a href=""><img src="https://github.com/multitudes/multitudes/blob/576f9f9a7d27db61bad2f2e5597dbb338b008ae0/42_badges/ft_printfm.png" width="100" height="100"></a>
+<a href=""><img src="https://github.com/multitudes/multitudes/blob/177533884e124d8a79da0b02ea61fc429213236a/42_badges/born2berootm.png" width="100" height="100"></a>
+<a href=""><img src="https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/get_next_linem.png" width="100" height="100"></a>
+<a href=""><img src="https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/fract-olm.png" width="100" height="100"></a>
+<a href=""><img src="https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/push_swapm.png" width="100" height="100"></a>
+<a href=""><img src="https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/minitalkm.png" width="100" height="100"></a>
+<a href=""><img src="https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/philosophersm.png" width="100" height="100"></a>
 </div>
 
 ## Current Technical Skills
