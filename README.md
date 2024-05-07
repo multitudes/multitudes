@@ -4,7 +4,7 @@
 Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md).  
 And at my [CV](https://github.com/multitudes/multitudes.github.io/blob/master/images/cv/cv-for-ios-jun2023.pdf)!  
 
-I am a freelance iOS developer and a student, currently following the core curriculum at [42Berlin](https://42berlin.de/), a recently launched, disruptive higher education NGO/start-up educating up to 600 students to become cutting-edge techies and software engineers in a practice-based peer-learning environment. It is based on the concept of Ecole 42 which was founded 2013 in Paris (today trains 18‘000+ students in 50 schools).  The core curriculu is focused on Unix, C, C++ and System administration.  
+I am a freelance iOS developer who recently went back to school, currently following the core curriculum at [42Berlin](https://42berlin.de/), a recently launched, disruptive higher education NGO/start-up educating up to 600 students to become cutting-edge techies and software engineers in a practice-based peer-learning environment. It is based on the concept of Ecole 42 which was founded 2013 in Paris (today trains 18‘000+ students in 50 schools).  The core curriculu is focused on Unix, C, C++ and System administration.  
 
 <details>
   <summary>🚀 My Holy Graph progression at 42 Berlin</summary>
