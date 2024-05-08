@@ -9,7 +9,7 @@ I am a freelance iOS developer who recently went back to school, currently follo
 <details>
   <summary>🚀 My Holy Graph progression at 42 Berlin</summary>
   <p align="left">
-    <img src="https://github.com/multitudes/multitudes.github.io/blob/5714b0573a9faa540dd561366d60aae82dc2e71d/images/laurentbrusaQR.png" width="200"  title="My Linktree QR">
+    <img src="https://github.com/multitudes/multitudes/blob/c09f8416879b2b3293cf3e47a9f712482398a1fd/holygraph.jpg" width="600"  title="My Linktree QR">
   </p>
 </details>
 
@@ -20,7 +20,7 @@ The holy graph shows the progression in the core curriculum going through the co
 <details>
   <summary>My Linktree QR code</summary>
   <p align="left">
-    <img src="https://github.com/multitudes/multitudes/blob/c09f8416879b2b3293cf3e47a9f712482398a1fd/holygraph.jpg" width="200"  title="My Linktree QR">
+    <img src="https://github.com/multitudes/multitudes.github.io/blob/5714b0573a9faa540dd561366d60aae82dc2e71d/images/laurentbrusaQR.png" width="200"  title="My Linktree QR">
   </p>
 </details>
 
