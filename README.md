@@ -1,10 +1,12 @@
 # Hi there, I am Laurent! 
 > “In the beginning there was nothing, which exploded.” ― Terry Pratchett
 
+I am 
+- a freelance iOS developer.  
+- currently following the core curriculum at [42Berlin](https://42berlin.de/).
+- 
 Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md).  
 And at my [CV](https://github.com/multitudes/multitudes/blob/bc9e1f5bc77c0a60a097433aa81affefa228e90a/cv2024.pdf)!  
-
-I am a freelance iOS developer who recently went back to school, currently following the core curriculum at [42Berlin](https://42berlin.de/), a recently launched, disruptive higher education NGO/start-up educating up to 600 students to become cutting-edge techies and software engineers in a practice-based peer-learning environment. It is based on the concept of Ecole 42 which was founded 2013 in Paris (today trains 18‘000+ students in 50 schools).  The core curriculu is focused on Unix, C, C++ and System administration.  
 
 <details>
   <summary>🚀 My Holy Graph progression at 42 Berlin</summary>
@@ -12,8 +14,8 @@ I am a freelance iOS developer who recently went back to school, currently follo
     <img src="https://github.com/multitudes/multitudes/blob/c09f8416879b2b3293cf3e47a9f712482398a1fd/holygraph.jpg" width="600"  title="My Linktree QR">
   </p>
 </details>
+The holy graph shows the progression in the core curriculum going through the concentric cores project after project. Each circle is terminated by absolving an exam. Three hours time to code without internet and distraction using vim and no autocomplete or copilot! [42Berlin](https://42berlin.de/), is a recently launched, disruptive higher education NGO/start-up educating up to 600 students to become cutting-edge techies and software engineers in a practice-based peer-learning environment. It is based on the concept of Ecole 42 which was founded 2013 in Paris (today trains 18‘000+ students in 50 schools).  The core curriculu is focused on Unix, C, C++ and System administration.  
 
-The holy graph shows the progression in the core curriculum going through the concentric cores project after project. Each circle is terminated by absolving an exam. Three hours time to code without internet and distraction using vim and no autocomplete or copilot! 
 
 ### Find me here:
 <a rel="me" href="https://linktr.ee/laurentbrusa">My Linktree</a>  
@@ -23,7 +25,6 @@ The holy graph shows the progression in the core curriculum going through the co
     <img src="https://github.com/multitudes/multitudes.github.io/blob/5714b0573a9faa540dd561366d60aae82dc2e71d/images/laurentbrusaQR.png" width="200"  title="My Linktree QR">
   </p>
 </details>
-
 
 <a rel="me" href="https://www.linkedin.com/in/laurentbrusa/">Linkedin</a>&nbsp;
 <a rel="me" href="https://bsky.app/profile/laurentbrusa.bsky.social">Bluesky</a>&nbsp;
