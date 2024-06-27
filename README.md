@@ -14,7 +14,7 @@ And at my [CV](https://github.com/multitudes/multitudes/blob/bc9e1f5bc77c0a60a09
 </details>
 The holy graph shows the progression in the core curriculum going through the concentric cores project after project. Each circle is terminated by absolving an exam. Three hours time to code without internet and distraction using vim and no autocomplete or copilot.  
 
-[42Berlin](https://42berlin.de) is a recently launched, disruptive higher education NGO/start-up educating up to 600 students to become cutting-edge techies and software engineers in a practice-based peer-learning environment. It is based on the concept of Ecole 42 which was founded 2013 in Paris (today trains 18‘000+ students in 50 schools).  The core curriculu is focused on Unix, C, C++ and System administration.  
+[42Berlin](https://42berlin.de) is a recently launched, disruptive higher education NGO/start-up educating up to 600 students to become cutting-edge techies and software engineers in a practice-based peer-learning environment. It is based on the concept of Ecole 42 which was founded 2013 in Paris (today trains 18‘000+ students in 50 schools).  The core curriculum is focused on Unix, C, C++ and System administration.  
 
 
 ### Find me here:
