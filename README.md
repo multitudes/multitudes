@@ -1,9 +1,7 @@
 # Hi there, I am Laurent! 
 > “In the beginning there was nothing, which exploded.” ― Terry Pratchett
 
-I am 
-- a freelance iOS developer.  
-- currently following the core curriculum at [42Berlin](https://42berlin.de/).
+I am a freelance iOS developer currently following the core curriculum at [42Berlin](https://42berlin.de/).
 
 Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md).  
 And at my [CV](https://github.com/multitudes/multitudes/blob/bc9e1f5bc77c0a60a097433aa81affefa228e90a/cv2024.pdf)!  
