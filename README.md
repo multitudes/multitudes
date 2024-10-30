@@ -35,11 +35,11 @@ The holy graph shows the progression in the core curriculum going through the co
 
 ##### (From HashNode and StackOverflow)
 <!-- BLOG-POST-LIST:START -->
+- [Answer by multitudes for Operator overloading not yet supported?](https://stackoverflow.com/questions/24148135/operator-overloading-not-yet-supported/78672928#78672928)
+- [Answer by multitudes for Why is operator overloading in Swift not declared inside the type it belongs to?](https://stackoverflow.com/questions/25642085/why-is-operator-overloading-in-swift-not-declared-inside-the-type-it-belongs-to/78672910#78672910)
 - [Code-Along Project With MapKit for SwiftUI - Part 6](https://laurentbrusa.hashnode.dev/code-along-project-with-mapkit-for-swiftui-part-6)
+- [Answer by multitudes for How to show directions in SwiftUI Map&lpar;&rpar;](https://stackoverflow.com/questions/70133668/how-to-show-directions-in-swiftui-map/77159028#77159028)
 - [Code-Along Project With MapKit for SwiftUI - Part 5](https://laurentbrusa.hashnode.dev/code-along-project-with-mapkit-for-swiftui-part-5)
-- [Code-Along Project With MapKit for SwiftUI - Part 4](https://laurentbrusa.hashnode.dev/code-along-project-with-mapkit-for-swiftui-part-4)
-- [Code-Along Project With MapKit for SwiftUI - Part 3](https://laurentbrusa.hashnode.dev/code-along-project-with-mapkit-for-swiftui-part-3)
-- [Code-Along Project With MapKit for SwiftUI - Part 2](https://laurentbrusa.hashnode.dev/code-along-project-with-mapkit-for-swiftui-part-2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
