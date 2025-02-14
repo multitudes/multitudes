@@ -58,9 +58,9 @@ The holy graph shows the progression in the core curriculum going through the co
 <a href=""><img src="https://github.com/multitudes/multitudes/blob/25e6f095425267ecb8c4118eb5cf44a960ce99a0/42_badges/minishellm.png" width="75" height="75"></a>
 <a href=""><img src="https://github.com/multitudes/multitudes/blob/master/42_badges/cppn.png" width="75" height="75"></a>
 <a href=""><img src="https://github.com/multitudes/multitudes/blob/master/42_badges/inceptionm.png" width="75" height="75"></a>
-<a href=""><img src="https:://github.com/multitudes/multitudes/blob/master/42_badges/minirtm.png" width="75" height="75"></a>
-<a href=""><img src="https:://github.com/multitudes/multitudes/blob/master/42_badges/netpracticem.png" width="75" height="75"></a>
-<a href=""><img src="https:://github.com/multitudes/multitudes/blob/master/42_badges/webservm.png" width="75" height="75"></a>
+<a href=""><img src="https://github.com/multitudes/multitudes/blob/master/42_badges/minirtm.png" width="75" height="75"></a>
+<a href=""><img src="https://github.com/multitudes/multitudes/blob/master/42_badges/netpracticem.png" width="75" height="75"></a>
+<a href=""><img src="https://github.com/multitudes/multitudes/blob/master/42_badges/webservm.png" width="75" height="75"></a>
 </div>
 
 
