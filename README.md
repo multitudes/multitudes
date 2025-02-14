@@ -63,9 +63,6 @@ The holy graph shows the progression in the core curriculum going through the co
 <a href=""><img src="https:://github.com/multitudes/multitudes/blob/master/42_badges/webservm.png" width="75" height="75"></a>
 </div>
 
-## Current Technical Skills
-
-[![My Skills](https://skillicons.dev/icons?i=swift,c,cpp,bash,linux,py,r,vim,vscode,stackoverflow,html,css,github,gitlab,git,arduino,raspberrypi,mysql,&theme=dark&perline=9)](https://skillicons.dev)
 
 
 <!--
