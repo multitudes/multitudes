@@ -4,7 +4,7 @@
 I am a freelance iOS developer currently following the core curriculum at [42Berlin](https://42berlin.de/).
 
 Please have a look at my [portfolio](https://github.com/multitudes/portfolio/blob/master/README.md).  
-And at my [CV](https://multitudes.github.io/images/cv/cv2025.pdf)
+
 
 <details>
   <summary>🚀 My Holy Graph progression at 42 Berlin</summary>
