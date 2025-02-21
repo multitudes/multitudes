@@ -1,12 +1,12 @@
-Hi there, I am Laurent! 
+Hi there, I am Laurent! :rocket:
 
 > “In the beginning there was nothing, which exploded.” ― Terry Pratchett
 
-# About Me
+## About Me
 iOS and Software Developer currently pursuing core curriculum studies at 42 Berlin ([42Berlin](https://42berlin.de/)).  
 Proficient in Swift and C/C++ with a passion for software development.
 
-# Projects  
+## Projects  
 My [portfolio for iOS](https://github.com/multitudes/portfolio/blob/master/README.md) and my GitHub repositories, [minishell](https://multitudes.github.io/42-minishell/), [miniRT](https://multitudes.github.io/42-miniRT/), [webserv](https://multitudes.github.io/42-webserv/), [inception](https://multitudes.github.io/42-inception/) and [transcendence](https://multitudes.github.io/42-transcendence/) showcase my projects at 42.
 
 <!--
