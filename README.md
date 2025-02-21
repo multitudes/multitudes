@@ -1,12 +1,12 @@
-Hi there, I am Laurent! :rocket:
+Hi there, I am Laurent! 👋
 
 > “In the beginning there was nothing, which exploded.” ― Terry Pratchett
 
-## About Me
+## About Me 💬
 iOS and Software Developer currently pursuing core curriculum studies at [42Berlin](https://42berlin.de/), advanced software engineering school.  
 Proficient in Swift and C/C++ with a passion for software development.
 
-## Projects  
+## Projects 🌱 
 My [portfolio for iOS](https://github.com/multitudes/portfolio/blob/master/README.md) and my GitHub repositories, [minishell](https://multitudes.github.io/42-minishell/), [miniRT](https://multitudes.github.io/42-miniRT/), [webserv](https://multitudes.github.io/42-webserv/), [inception](https://multitudes.github.io/42-inception/) and [transcendence](https://multitudes.github.io/42-transcendence/) showcase my projects at 42.
 
 <!--
@@ -21,23 +21,24 @@ My [portfolio for iOS](https://github.com/multitudes/portfolio/blob/master/READM
 The holy graph shows the progression in the core curriculum going through the concentric cores project after project. Each circle is terminated by absolving an exam. Three hours time to code without internet and distraction using vim and no autocomplete or copilot.  -->
 
 
-### Socials and Contact:
+## Socials and Contact 📫
 Feel free to reach out to me for collaboration or opportunities:  
 <a rel="me" href="https://www.linkedin.com/in/laurentbrusa/">Linkedin</a>&nbsp;  
 <a rel="me" href="https://bsky.app/profile/laurentbrusa.bsky.social">Bluesky</a>&nbsp;  
 <a rel="me" href="https://iosdev.space/@multitudes">Mastodon</a>&nbsp;  
 <a rel="me" href="https://laurentbrusa.hashnode.dev">Hashnode</a>&nbsp;  
 <a rel="me" href="https://linktr.ee/laurentbrusa">My Linktree</a>  
+<!--
 <details>
   <summary>My Linktree QR code</summary>
   <p align="left">
     <img src="https://github.com/multitudes/multitudes.github.io/blob/5714b0573a9faa540dd561366d60aae82dc2e71d/images/laurentbrusaQR.png" width="200"  title="My Linktree QR">
   </p>
 </details>
+-->
+##  My Latest Blog Posts 📝
 
-###  My Latest Blog Posts:
-
-##### (From HashNode and StackOverflow)
+### Collected From HashNode and StackOverflow
 <!-- BLOG-POST-LIST:START -->
 - [Answer by multitudes for Operator overloading not yet supported?](https://stackoverflow.com/questions/24148135/operator-overloading-not-yet-supported/78672928#78672928)
 - [Answer by multitudes for Why is operator overloading in Swift not declared inside the type it belongs to?](https://stackoverflow.com/questions/25642085/why-is-operator-overloading-in-swift-not-declared-inside-the-type-it-belongs-to/78672910#78672910)
@@ -46,6 +47,7 @@ Feel free to reach out to me for collaboration or opportunities:
 - [Code-Along Project With MapKit for SwiftUI - Part 5](https://laurentbrusa.hashnode.dev/code-along-project-with-mapkit-for-swiftui-part-5)
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 ---
 
 ### 42 School Projects
@@ -66,10 +68,6 @@ Feel free to reach out to me for collaboration or opportunities:
 <a href=""><img src="https://github.com/multitudes/multitudes/blob/master/42_badges/netpracticem.png" width="75" height="75"></a>
 <a href=""><img src="https://github.com/multitudes/multitudes/blob/master/42_badges/webservm.png" width="75" height="75"></a>
 </div>
-
-
-
-<!--
 
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="multitudes" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
