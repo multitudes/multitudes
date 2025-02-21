@@ -3,7 +3,7 @@ Hi there, I am Laurent! :rocket:
 > “In the beginning there was nothing, which exploded.” ― Terry Pratchett
 
 ## About Me
-iOS and Software Developer currently pursuing core curriculum studies at 42 Berlin ([42Berlin](https://42berlin.de/)).  
+iOS and Software Developer currently pursuing core curriculum studies at [42Berlin](https://42berlin.de/), advanced software engineering school.  
 Proficient in Swift and C/C++ with a passion for software development.
 
 ## Projects  
