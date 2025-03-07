@@ -3,8 +3,8 @@ Hi there, I am Laurent! 👋
 > “In the beginning there was nothing, which exploded.” ― Terry Pratchett
 
 ## About Me 💬
-iOS and Software Developer currently pursuing core curriculum studies at [42Berlin](https://42berlin.de/), advanced software engineering school.  
-Proficient in Swift and C/C++ with a passion for software development.
+Proficient in Swift and C/C++ with a passion for iOS and a passion for creating delightful, accessible and highly performant user experiences on mobile and desktop.  
+Currently pursuing core curriculum studies at [42Berlin](https://42berlin.de/).  
 
 ## Projects 🌱 
 My [portfolio for iOS](https://github.com/multitudes/portfolio/blob/master/README.md) and my GitHub repositories, [minishell](https://multitudes.github.io/42-minishell/), [miniRT](https://multitudes.github.io/42-miniRT/), [webserv](https://multitudes.github.io/42-webserv/), [inception](https://multitudes.github.io/42-inception/) and [transcendence](https://multitudes.github.io/42-transcendence/) showcase my projects at 42.
