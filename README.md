@@ -1,44 +1,38 @@
-Hi there, I am Laurent! 👋
+# Hi there, I am Laurent! 👋
 
 > “In the beginning there was nothing, which exploded.” ― Terry Pratchett
 
 ## About Me 💬
-Proficient in Swift and C/C++ with a passion for iOS and a passion for creating delightful, accessible and highly performant user experiences on mobile and desktop.  
-Currently pursuing core curriculum studies at [42Berlin](https://42berlin.de/).  
+Highly motivated career changer with professional experience as an iOS Developer (Swift) since 2022, following a background in the airline industry. Driven by a desire for deeper technical understanding, currently completing the C/C++ focused core curriculum at 42 Berlin. Proven ability to quickly acquire new skills, recently managing DevOps tasks including GitHub CI/CD, Python/Pytest automation, monitoring (Grafana/OpenTelemetry), Docker, and ELK stack implementation.  
 
-## Projects 🌱 
-My [portfolio for iOS](https://github.com/multitudes/portfolio/blob/master/README.md) and my GitHub repositories, [minishell](https://multitudes.github.io/42-minishell/), [miniRT](https://multitudes.github.io/42-miniRT/), [webserv](https://multitudes.github.io/42-webserv/), [inception](https://multitudes.github.io/42-inception/) and [transcendence](https://multitudes.github.io/42-transcendence/) showcase my projects at 42.
+## What I Do 🛠️
+Seeking challenging roles leveraging a broadened skillset in Swift, C/C++, and modern development practices, with a passion for creating delightful, accessible, and highly performant user experiences on mobile and desktop.
+My [portfolio for iOS](https://github.com/multitudes/portfolio/blob/master/README.md) and my GitHub repositories, [minishell](https://multitudes.github.io/42-minishell/), [miniRT](https://multitudes.github.io/42-miniRT/), [webserv](https://multitudes.github.io/42-webserv/), [inception](https://multitudes.github.io/42-inception/) and [transcendence](https://multitudes.github.io/42-transcendence/) showcase my projects at [42Berlin](https://42berlin.de/).
 
-<!--
-[42Berlin](https://42berlin.de) is a recently launched, disruptive higher education NGO/start-up educating up to 600 students to become cutting-edge techies and software engineers in a practice-based peer-learning environment. It is based on the concept of Ecole 42 which was founded 2013 in Paris (today trains 18‘000+ students in 50 schools).  The core curriculum is focused on Unix, C, C++ and System administration.  
+ 
+## Currently Working On 🌱
+- I am exploring the world of Docker and containers.  
+- Going deeper with Linux programming and assembly code.   
+- Learning how to use the new LLM models **effectively**.
 
-<details>
-  <summary>My Holy Graph progression at 42 Berlin 🚀 </summary>
-  <p align="left">
-    <img src="https://github.com/multitudes/multitudes/blob/c09f8416879b2b3293cf3e47a9f712482398a1fd/holygraph.jpg" width="600"  title="My Linktree QR">
-  </p>
-</details>
-The holy graph shows the progression in the core curriculum going through the concentric cores project after project. Each circle is terminated by absolving an exam. Three hours time to code without internet and distraction using vim and no autocomplete or copilot.  -->
+## Interested in 💻
+- The Apple ecosystem with SwiftUI and creating **delightful** applications.
+- Microservices and backend
+- Linux and **low-level** programming **in** C and C++
+ 
+## Let's Connect! 📫
+- <a rel="me" href="https://www.linkedin.com/in/laurentbrusa/">Linkedin</a>&nbsp;  
 
+Feel free to reach out to me for collaboration or opportunities: seeking challenging roles leveraging a broadened skillset in Swift, C/C++, and modern development practices, **with** a passion for creating delightful, accessible**,** and highly performant user experiences on mobile and desktop.
 
-## Socials and Contact 📫
-Feel free to reach out to me for collaboration or opportunities:  
-<a rel="me" href="https://www.linkedin.com/in/laurentbrusa/">Linkedin</a>&nbsp;  
+## My socials 🎮
 <a rel="me" href="https://bsky.app/profile/laurentbrusa.bsky.social">Bluesky</a>&nbsp;  
 <a rel="me" href="https://iosdev.space/@multitudes">Mastodon</a>&nbsp;  
 <a rel="me" href="https://laurentbrusa.hashnode.dev">Hashnode</a>&nbsp;  
 <a rel="me" href="https://linktr.ee/laurentbrusa">My Linktree</a>  
-<!--
-<details>
-  <summary>My Linktree QR code</summary>
-  <p align="left">
-    <img src="https://github.com/multitudes/multitudes.github.io/blob/5714b0573a9faa540dd561366d60aae82dc2e71d/images/laurentbrusaQR.png" width="200"  title="My Linktree QR">
-  </p>
-</details>
--->
 ##  My Latest Blog Posts 📝
 
-### Collected From HashNode and StackOverflow
+- Collected From HashNode and StackOverflow:
 <!-- BLOG-POST-LIST:START -->
 - [Answer by multitudes for Operator overloading not yet supported?](https://stackoverflow.com/questions/24148135/operator-overloading-not-yet-supported/78672928#78672928)
 - [Answer by multitudes for Why is operator overloading in Swift not declared inside the type it belongs to?](https://stackoverflow.com/questions/25642085/why-is-operator-overloading-in-swift-not-declared-inside-the-type-it-belongs-to/78672910#78672910)
