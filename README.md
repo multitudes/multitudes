@@ -3,7 +3,11 @@
 > “In the beginning there was nothing, which exploded.” ― Terry Pratchett
 
 ## About Me 💬
-Highly motivated career changer with professional experience as an iOS Developer (Swift) since 2022, following a background in the airline industry. Driven by a desire for deeper technical understanding, I completed the C/C++ focused core curriculum at 42 Berlin and I am now following the specialisation track. Proven ability to quickly acquire new skills, recently managing DevOps tasks including GitHub CI/CD, Python/Pytest automation, monitoring (Grafana/OpenTelemetry), Docker, and ELK stack implementation.  
+I'm a software developer and career changer who successfully transitioned from the airline industry into tech. My goal is to build robust systems and continuously deepen my technical expertise.
+Background: Professional experience as an iOS Developer (Swift) since 2022.
+- Education: Completed the C/C++ core curriculum at 42 Berlin, where I'm now pursuing a specialization in AI and Automation.
+- Core Skills: Proficient in DevOps (GitHub CI/CD, Docker, Grafana, ELK), automation (Python/Pytest), and systems programming (C/C++).
+- Current Interests: Actively exploring low-level cybersecurity and practical data science applications.
 
 ## What I Do 🛠️
 Seeking challenging roles leveraging a broadened skillset in Swift, C/C++, and modern development practices, with a passion for creating delightful, accessible, and highly performant user experiences on mobile and desktop.
@@ -11,9 +15,9 @@ My [portfolio for iOS](https://github.com/multitudes/portfolio/blob/master/READM
 
  
 ## Currently Working On 🌱
-- I am exploring the world of Docker and containers.  
+- I am exploring the world of Docker and devops.  
 - Going deeper with Linux programming and assembly code.   
-- Learning how to use the new LLM models **effectively**.
+- Learning how LLM's work
 
 ## Interested in 💻
 - The Apple ecosystem with SwiftUI and creating **delightful** applications.
