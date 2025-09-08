@@ -3,7 +3,7 @@
 > “In the beginning there was nothing, which exploded.” ― Terry Pratchett
 
 ## About Me 💬
-Highly motivated career changer with professional experience as an iOS Developer (Swift) since 2022, following a background in the airline industry. Driven by a desire for deeper technical understanding, currently completing the C/C++ focused core curriculum at 42 Berlin. Proven ability to quickly acquire new skills, recently managing DevOps tasks including GitHub CI/CD, Python/Pytest automation, monitoring (Grafana/OpenTelemetry), Docker, and ELK stack implementation.  
+Highly motivated career changer with professional experience as an iOS Developer (Swift) since 2022, following a background in the airline industry. Driven by a desire for deeper technical understanding, I completed the C/C++ focused core curriculum at 42 Berlin and I am now following the specialisation track. Proven ability to quickly acquire new skills, recently managing DevOps tasks including GitHub CI/CD, Python/Pytest automation, monitoring (Grafana/OpenTelemetry), Docker, and ELK stack implementation.  
 
 ## What I Do 🛠️
 Seeking challenging roles leveraging a broadened skillset in Swift, C/C++, and modern development practices, with a passion for creating delightful, accessible, and highly performant user experiences on mobile and desktop.
