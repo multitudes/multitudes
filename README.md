@@ -11,7 +11,7 @@ Background: Professional experience as an iOS Developer (Swift) since 2022.
 
 ## What I Do 🛠️
 Seeking challenging roles leveraging a broadened skillset in Swift, C/C++, and modern development practices, with a passion for creating delightful, accessible, and highly performant user experiences on mobile and desktop.
-My [portfolio for iOS](https://github.com/multitudes/portfolio/blob/master/README.md) and my GitHub repositories, [minishell](https://multitudes.github.io/42-minishell/), [miniRT](https://multitudes.github.io/42-miniRT/), [webserv](https://multitudes.github.io/42-webserv/), [inception](https://multitudes.github.io/42-inception/) and [transcendence](https://multitudes.github.io/42-transcendence/) showcase my projects at [42Berlin](https://42berlin.de/).
+My [portfolio for iOS](https://multitudes.github.io/portfolio/) and my GitHub repositories, [minishell](https://multitudes.github.io/42-minishell/), [miniRT](https://multitudes.github.io/42-miniRT/), [webserv](https://multitudes.github.io/42-webserv/), [inception](https://multitudes.github.io/42-inception/) and [transcendence](https://multitudes.github.io/42-transcendence/) showcase my projects at [42Berlin](https://42berlin.de/).
 
  
 ## Currently Working On 🌱
