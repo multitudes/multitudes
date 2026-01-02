@@ -38,11 +38,11 @@ Feel free to reach out to me for collaboration or opportunities: seeking challen
 
 - Collected From HashNode and StackOverflow:
 <!-- BLOG-POST-LIST:START -->
+- [Notes about my SAP Masterclass - Agile Development in Practice](https://laurentbrusa.hashnode.dev/notes-about-my-sap-masterclass-agile-development-in-practice)
 - [Answer by multitudes for Operator overloading not yet supported?](https://stackoverflow.com/questions/24148135/operator-overloading-not-yet-supported/78672928#78672928)
 - [Answer by multitudes for Why is operator overloading in Swift not declared inside the type it belongs to?](https://stackoverflow.com/questions/25642085/why-is-operator-overloading-in-swift-not-declared-inside-the-type-it-belongs-to/78672910#78672910)
+- [Code-Along Project With MapKit for SwiftUI - Part 6](https://laurentbrusa.hashnode.dev/code-along-project-with-mapkit-for-swiftui-part-6)
 - [Answer by multitudes for How to show directions in SwiftUI Map&lpar;&rpar;](https://stackoverflow.com/questions/70133668/how-to-show-directions-in-swiftui-map/77159028#77159028)
-- [Answer by multitudes for How to install iOS 17 beta simulators in Xcode 15 beta](https://stackoverflow.com/questions/76968932/how-to-install-ios-17-beta-simulators-in-xcode-15-beta/76968978#76968978)
-- [How to install iOS 17 beta simulators in Xcode 15 beta](https://stackoverflow.com/questions/76968932/how-to-install-ios-17-beta-simulators-in-xcode-15-beta)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
