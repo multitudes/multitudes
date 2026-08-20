@@ -14,8 +14,9 @@ Currently pursuing a specialization in **AI and Automation** at [42 Berlin](http
 ### Mobile Development
 *  **[My iOS Portfolio](https://multitudes.github.io/portfolio/)**: Showcasing my professional work in Swift, ARKit, and SwiftUI, focusing on delightful and accessible user experiences.
 
-### Systems & DevOps (42 Berlin)
-A deep dive into system architecture, networking, and infrastructure:
+### Systems, DevOps & Security (42 Berlin)
+A deep dive into system architecture, networking, infrastructure, and cybersecurity:
+*   [libftpp](https://github.com/multitudes/libftpp): Advanced C++ component library exploring design patterns, multi-threading, and client/server networking.
 *   [Darkly (CTF)](https://github.com/multitudes/darkly-ctf): Web application security and vulnerability exploitation.
 *   [IoT - Inception of Things](https://github.com/multitudes/IoT-Inception-of-Things-A-42-Project): Infrastructure and Kubernetes/K3s deployment.
 *   [Inception](https://github.com/multitudes/42-inception): System administration and Docker deployment.
