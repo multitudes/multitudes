@@ -1,20 +1,18 @@
-# Hi there, I am Laurent! 👋
+# Hi there, I am Laurent!
 
-> “In the beginning there was nothing, which exploded.” ― Terry Pratchett
-
-## 💬 About Me
+## About Me
 I am a versatile Software Engineer who successfully transitioned from the airline industry into tech. With a strong foundation in **C/C++, Swift, and Python**, I enjoy bridging the gap between low-level systems and modern, interactive applications. 
 
 Currently pursuing a specialization in **AI and Automation** at [42 Berlin](https://42berlin.de/), I thrive in agile environments, solving complex technical challenges, and building robust, highly performant solutions.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Startups & Interactive Web
 *   **[Jiffy Events](https://jiffy-events.com/share)** *(Co-Founder / CTO)*: An interactive real-time presentation platform featuring live polls and smartphone QR-pairing. 
 *   **[gyro.games](https://gyro.games/)** *(Co-Founder / CTO)*: A seamless web multiplayer platform that utilizes mobile hardware sensors (gyroscope, accelerometer) as game controllers.
 
 ### Mobile Development
-*   📱 **[My iOS Portfolio](https://multitudes.github.io/portfolio/)**: Showcasing my professional work in Swift, ARKit, and SwiftUI, focusing on delightful and accessible user experiences.
+*  **[My iOS Portfolio](https://multitudes.github.io/portfolio/)**: Showcasing my professional work in Swift, ARKit, and SwiftUI, focusing on delightful and accessible user experiences.
 
 ### Systems & DevOps (42 Berlin)
 A deep dive into system architecture, networking, and infrastructure:
@@ -25,12 +23,12 @@ A deep dive into system architecture, networking, and infrastructure:
 *   [miniRT](https://github.com/multitudes/miniRayTracer): A raytracer built in C.
 *   [Minishell](https://github.com/multitudes/42-minishell): A bash-like shell operating system written in C.
 
-## 🌱 Tech Stack & Current Focus
+##  Tech Stack & Current Focus
 *   **Core:** C, C++, Swift, Python
 *   **DevOps:** Docker, GitHub CI/CD, Git, Linux
 *   **Currently Exploring:** Local Agentic LLM deployments, AI integration, and low-level cybersecurity.
 
-## 📫 Let's Connect!
+##  Let's Connect!
 *   [LinkedIn](https://www.linkedin.com/in/laurentbrusa/)
 *   [Mastodon](https://iosdev.space/@multitudes)
 *   [Bluesky](https://bsky.app/profile/laurentbrusa.bsky.social)
@@ -39,7 +37,7 @@ A deep dive into system architecture, networking, and infrastructure:
 
 ---
 
-## 📝 My Latest Blog Posts
+##  My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Connecting Antigravity to Xcode](https://laurentbrusa.hashnode.dev/connecting-antigravity-to-xcode)
 - [Notes about my SAP Masterclass - Agile Development in Practice](https://laurentbrusa.hashnode.dev/notes-about-my-sap-masterclass-agile-development-in-practice)
