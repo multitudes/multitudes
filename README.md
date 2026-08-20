@@ -1,4 +1,4 @@
-![github_header.jpg](github_header.jpg)
+![github_header.png](github_header.png)
 
 ## About Me
 I am a versatile Software Engineer who successfully transitioned from the airline industry into tech. With a strong foundation in **C/C++, Swift, and Python**, I enjoy bridging the gap between low-level systems and modern, interactive applications. 
