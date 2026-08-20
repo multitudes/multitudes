@@ -10,21 +10,20 @@ Currently pursuing a specialization in **AI and Automation** at [42 Berlin](http
 ## 🚀 Featured Projects
 
 ### Startups & Interactive Web
-*   **[Jiffy Events](https://github.com/multitudes/jiffy-events)** *(Co-Founder / CTO)*: An interactive real-time presentation platform featuring live polls and smartphone QR-pairing. 
-*   **[gyro.games](https://github.com/multitudes/gyro.games)** *(Co-Founder / CTO)*: A seamless web multiplayer platform that utilizes mobile hardware sensors (gyroscope, accelerometer) as game controllers.
+*   **[Jiffy Events](https://jiffy-events.com/share)** *(Co-Founder / CTO)*: An interactive real-time presentation platform featuring live polls and smartphone QR-pairing. 
+*   **[gyro.games](https://gyro.games/)** *(Co-Founder / CTO)*: A seamless web multiplayer platform that utilizes mobile hardware sensors (gyroscope, accelerometer) as game controllers.
 
 ### Mobile Development
 *   📱 **[My iOS Portfolio](https://multitudes.github.io/portfolio/)**: Showcasing my professional work in Swift, ARKit, and SwiftUI, focusing on delightful and accessible user experiences.
 
 ### Systems & DevOps (42 Berlin)
 A deep dive into system architecture, networking, and infrastructure:
-
+*   [Darkly (CTF)](https://github.com/multitudes/darkly-ctf): Web application security and vulnerability exploitation.
 *   [IoT - Inception of Things](https://github.com/multitudes/IoT-Inception-of-Things-A-42-Project): Infrastructure and Kubernetes/K3s deployment.
-*   [Inception](https://multitudes.github.io/42-inception/): System administration and Docker deployment.
-*   [Webserv](https://multitudes.github.io/42-webserv/): A custom HTTP server written in C++.
-*   [miniRT](https://multitudes.github.io/42-miniRT/): A raytracer built in C.
-*   [Minishell](https://multitudes.github.io/42-minishell/): A bash-like shell operating system written in C.
-*   [Transcendence](https://multitudes.github.io/42-transcendence/): A full-stack SPA web application.
+*   [Inception](https://github.com/multitudes/42-inception): System administration and Docker deployment.
+*   [Webserv](https://github.com/multitudes/httpwebserver): A custom HTTP server written in C++, with integration tests in Python.
+*   [miniRT](https://github.com/multitudes/miniRayTracer): A raytracer built in C.
+*   [Minishell](https://github.com/multitudes/42-minishell): A bash-like shell operating system written in C.
 
 ## 🌱 Tech Stack & Current Focus
 *   **Core:** C, C++, Swift, Python
