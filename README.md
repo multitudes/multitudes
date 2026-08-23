@@ -19,10 +19,10 @@ A deep dive into system architecture, networking, infrastructure, and cybersecur
 *   [libftpp](https://github.com/multitudes/libftpp): Advanced C++ component library exploring design patterns, multi-threading, and client/server networking.
 *   [Darkly (CTF)](https://github.com/multitudes/darkly-ctf): Web application security and vulnerability exploitation.
 *   [IoT - Inception of Things](https://github.com/multitudes/IoT-Inception-of-Things-A-42-Project): Infrastructure and Kubernetes/K3s deployment.
-*   [Inception](https://github.com/multitudes/42-inception): System administration and Docker deployment.
-*   [Webserv](https://github.com/multitudes/httpwebserver): A custom HTTP server written in C++, with integration tests in Python.
-*   [miniRT](https://github.com/multitudes/miniRayTracer): A raytracer built in C.
-*   [Minishell](https://github.com/multitudes/42-minishell): A bash-like shell operating system written in C.
+*   [Inception](https://github.com/multitudes/inception): System administration and Docker deployment.
+*   [httpwebserver](https://github.com/multitudes/httpwebserver): A custom HTTP server written in C++, with integration tests in Python.
+*   [miniRayTracer](https://github.com/multitudes/miniRayTracer): A raytracer built in C.
+*   [Minishell](https://github.com/multitudes/minishell): A bash-like shell operating system written in C.
 
 ##  Tech Stack & Current Focus
 *   **Core:** C, C++, Swift, Python
