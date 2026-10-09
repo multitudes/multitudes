@@ -17,7 +17,8 @@ Currently pursuing a specialization in **AI and Automation** at [42 Berlin](http
 ### Systems, DevOps & Security (42 Berlin)
 A deep dive into system architecture, networking, infrastructure, and cybersecurity:
 *   [libftpp](https://github.com/multitudes/libftpp): Advanced C++ component library exploring design patterns, multi-threading, and client/server networking.
-*   [42-LLM](https://github.com/multitudes/42-LLM/tree/dev): This project implements an embedded, local Large Language Model (LLM) pipeline that selects and formats tool/function calls from natural language prompts. (Python) 
+*   [42-LLM](https://github.com/multitudes/42-LLM/tree/dev): This project implements an embedded, local Large Language Model (LLM) pipeline that selects and formats tool/function calls from natural language prompts. (Python)
+*   [Rag against the machine](https://github.com/multitudes/rag-against-the-machine): A Retrieval-Augmented Generation (RAG) system that answers questions about the [vLLM](https://github.com/vllm-project/vllm) codebase. (Python)
 *   [Darkly (CTF)](https://github.com/multitudes/darkly-ctf): Web application security and vulnerability exploitation.
 *   [IoT - Inception of Things](https://github.com/multitudes/IoT-Inception-of-Things-A-42-Project): Infrastructure and Kubernetes/K3s deployment.
 *   [Inception](https://github.com/multitudes/inception): System administration and Docker deployment.
